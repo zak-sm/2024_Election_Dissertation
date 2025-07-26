@@ -83,5 +83,5 @@ Dane County was selected as a control due to its comparable political alignment,
 ---
 
 Prepared by: Zakariya Smith  
-Institution: [Your Institution]  
-Date: [Insert Date]
+Institution: (The) Univesity of Birmingham
+May 8th, 2025
