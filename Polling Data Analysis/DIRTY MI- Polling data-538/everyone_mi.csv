@@ -1,0 +1,794 @@
+poll_id,pollster,numeric_grade,pollscore,methodology,transparency_score,state,start_date,end_date,sample_size,created_at,party,candidate_id,candidate_name,pct,score change
+87486,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-17,2024-07-18,650.0,7/18/24 20:18,DEM,19368,Joe Biden,44.0,1.5
+87486,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-17,2024-07-18,650.0,7/18/24 20:18,DEM,19368,Joe Biden,46.0,1.5
+87506,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-07-16,2024-07-18,437.0,7/21/24 11:06,DEM,19368,Joe Biden,41.0,1.5
+87489,Trafalgar Group,0.7,0.6,IVR/Live Phone/Text/Online Opt-In Panel/Email,4.0,Michigan,2024-07-15,2024-07-17,1091.0,7/19/24 09:49,DEM,19368,Joe Biden,43.0,1.5
+87500,EPIC/MRA,1.9,-0.7,,3.0,Michigan,2024-07-13,2024-07-17,600.0,7/21/24 11:06,DEM,19368,Joe Biden,42.0,1.5
+87500,EPIC/MRA,1.9,-0.7,,3.0,Michigan,2024-07-13,2024-07-17,600.0,7/21/24 11:06,DEM,19368,Joe Biden,36.0,1.5
+87455,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-07-15,2024-07-16,1000.0,7/18/24 09:41,DEM,19368,Joe Biden,42.1,1.5
+87455,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-07-15,2024-07-16,1000.0,7/18/24 09:42,DEM,19368,Joe Biden,39.9,1.5
+87494,Civiqs,2.4,-0.2,Online Opt-In Panel/Online Ad,8.0,Michigan,2024-07-13,2024-07-16,532.0,7/19/24 15:24,DEM,19368,Joe Biden,43.0,1.5
+87399,MRG (Marketing Resource Group),1.8,0.1,,6.0,Michigan,2024-07-11,2024-07-13,600.0,7/15/24 10:06,DEM,19368,Joe Biden,36.0,1.5
+87513,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-11,2024-07-12,568.0,7/22/24 09:27,DEM,19368,Joe Biden,46.0,1.5
+87420,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-07-08,2024-07-10,465.0,7/15/24 20:31,DEM,19368,Joe Biden,43.0,1.5
+87603,Echelon Insights,2.7,-0.8,Online Opt-In Panel,9.0,Michigan,2024-07-01,2024-07-08,607.0,7/29/24 20:13,DEM,19368,Joe Biden,45.0,1.5
+87603,Echelon Insights,2.7,-0.8,Online Opt-In Panel,9.0,Michigan,2024-07-01,2024-07-08,607.0,7/29/24 20:13,DEM,19368,Joe Biden,40.0,1.5
+87318,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-07-01,2024-07-05,694.0,7/6/24 13:34,DEM,19368,Joe Biden,45.0,1.5
+87318,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-07-01,2024-07-05,694.0,7/6/24 13:34,DEM,19368,Joe Biden,48.0,1.5
+87337,Emerson,2.9,-1.1,,7.0,Michigan,2024-06-30,2024-07-02,1000.0,7/8/24 13:02,DEM,19368,Joe Biden,44.0,1.5
+87327,Remington,2.6,-0.6,,7.0,Michigan,2024-06-29,2024-07-01,584.0,7/8/24 11:32,DEM,19368,Joe Biden,42.0,1.5
+87342,1983 Labs,,,Online Opt-In Panel,1.0,Michigan,2024-06-28,2024-06-30,563.0,7/8/24 13:03,DEM,19368,Joe Biden,41.0,1.5
+87277,EPIC/MRA,1.9,-0.7,Live Phone,3.0,Michigan,2024-06-21,2024-06-26,600.0,6/29/24 18:46,DEM,19368,Joe Biden,45.0,1.5
+87277,EPIC/MRA,1.9,-0.7,Live Phone,3.0,Michigan,2024-06-21,2024-06-26,600.0,6/29/24 18:46,DEM,19368,Joe Biden,38.0,1.5
+87258,P2 Insights,1.1,0.1,Live Phone/Text-to-Web,1.0,Michigan,2024-06-11,2024-06-20,650.0,6/27/24 11:15,DEM,19368,Joe Biden,40.0,1.5
+87209,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-06-13,2024-06-18,1000.0,6/20/24 13:12,DEM,19368,Joe Biden,49.3,1.5
+87209,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-06-13,2024-06-18,1000.0,6/20/24 13:13,DEM,19368,Joe Biden,41.9,1.5
+87179,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-06-08,2024-06-11,594.0,6/17/24 10:36,DEM,19368,Joe Biden,36.0,1.5
+87110,Mitchell,2.4,-0.2,Text-to-Web,6.0,Michigan,2024-06-03,2024-06-03,710.0,6/5/24 14:04,DEM,19368,Joe Biden,47.6,1.5
+87110,Mitchell,2.4,-0.2,Text-to-Web,6.0,Michigan,2024-06-03,2024-06-03,710.0,6/5/24 14:04,DEM,19368,Joe Biden,45.1,1.5
+87097,Florida Atlantic University/Mainstreet Research,,,IVR/Online Opt-In Panel,6.0,Michigan,2024-05-30,2024-05-31,722.0,6/4/24 13:26,DEM,19368,Joe Biden,45.0,1.5
+87097,Florida Atlantic University/Mainstreet Research,,,IVR/Online Opt-In Panel,6.0,Michigan,2024-05-30,2024-05-31,636.0,6/4/24 13:26,DEM,19368,Joe Biden,47.0,1.5
+87097,Florida Atlantic University/Mainstreet Research,,,IVR/Online Opt-In Panel,6.0,Michigan,2024-05-30,2024-05-31,722.0,6/4/24 13:26,DEM,19368,Joe Biden,41.0,1.5
+87097,Florida Atlantic University/Mainstreet Research,,,IVR/Online Opt-In Panel,6.0,Michigan,2024-05-30,2024-05-31,636.0,6/4/24 13:26,DEM,19368,Joe Biden,44.0,1.5
+87048,Mitchell,2.4,-0.2,Text-to-Web,6.0,Michigan,2024-05-20,2024-05-21,697.0,5/28/24 20:41,DEM,19368,Joe Biden,47.0,1.5
+87048,Mitchell,2.4,-0.2,Text-to-Web,6.0,Michigan,2024-05-20,2024-05-21,697.0,5/28/24 20:41,DEM,19368,Joe Biden,45.0,1.5
+87263,P2 Insights,1.1,0.1,Live Phone/Text-to-Web,1.0,Michigan,2024-05-13,2024-05-21,650.0,6/27/24 15:02,DEM,19368,Joe Biden,37.0,1.5
+87426,KAConsulting LLC,1.5,-0.1,Live Phone/Online Opt-In Panel,3.5,Michigan,2024-05-15,2024-05-19,600.0,7/16/24 09:34,DEM,19368,Joe Biden,44.0,1.5
+87426,KAConsulting LLC,1.5,-0.1,Live Phone/Online Opt-In Panel,3.5,Michigan,2024-05-15,2024-05-19,600.0,7/16/24 09:34,DEM,19368,Joe Biden,41.0,1.5
+87006,Prime Group,,,Online Opt-In Panel,1.0,Michigan,2024-05-09,2024-05-16,482.0,5/22/24 15:07,DEM,19368,Joe Biden,52.0,1.5
+87006,Prime Group,,,Online Opt-In Panel,1.0,Michigan,2024-05-09,2024-05-16,482.0,5/22/24 15:07,DEM,19368,Joe Biden,44.0,1.5
+87017,Benenson Strategy Group/GS Strategy Group,,,Online Opt-In Panel/Text-to-Web,0.0,Michigan,2024-05-06,2024-05-13,606.0,5/23/24 09:34,DEM,19368,Joe Biden,40.0,1.5
+87017,Benenson Strategy Group/GS Strategy Group,,,Online Opt-In Panel/Text-to-Web,0.0,Michigan,2024-05-06,2024-05-13,606.0,5/23/24 09:35,DEM,19368,Joe Biden,45.0,1.5
+86990,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-05-08,2024-05-12,704.0,5/22/24 11:20,DEM,19368,Joe Biden,42.0,1.5
+86990,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-05-08,2024-05-12,704.0,5/22/24 11:20,DEM,19368,Joe Biden,46.0,1.5
+86899,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-04-28,2024-05-09,616.0,5/13/24 10:12,DEM,19368,Joe Biden,36.0,1.5
+86899,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-04-28,2024-05-09,616.0,5/13/24 10:12,DEM,19368,Joe Biden,42.0,1.5
+86899,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-04-28,2024-05-09,616.0,5/13/24 10:13,DEM,19368,Joe Biden,42.0,1.5
+86899,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-04-28,2024-05-09,616.0,5/13/24 10:13,DEM,19368,Joe Biden,47.0,1.5
+86906,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-05-02,2024-05-04,522.0,5/13/24 10:48,DEM,19368,Joe Biden,37.0,1.5
+86750,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-04-25,2024-04-29,1000.0,4/30/24 09:15,DEM,19368,Joe Biden,47.9,1.5
+86750,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-04-25,2024-04-29,1000.0,4/30/24 09:15,DEM,19368,Joe Biden,42.1,1.5
+86740,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-04-19,2024-04-25,1262.0,4/28/24 11:53,DEM,19368,Joe Biden,51.0,1.5
+86740,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-04-19,2024-04-25,1262.0,4/28/24 11:53,DEM,19368,Joe Biden,45.0,1.5
+86733,Kaplan Strategies,2.0,-0.9,Online Opt-In Panel/Text-to-Web,4.5,Michigan,2024-04-20,2024-04-21,804.0,4/26/24 09:30,DEM,19368,Joe Biden,36.0,1.5
+86800,John Zogby Strategies,1.8,0.0,Online Opt-In Panel,5.0,Michigan,2024-04-13,2024-04-21,640.0,5/1/24 18:29,DEM,19368,Joe Biden,44.6,1.5
+86689,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,6.0,Michigan,2024-04-11,2024-04-16,1126.0,4/18/24 20:54,DEM,19368,Joe Biden,40.0,1.5
+86689,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,6.0,Michigan,2024-04-11,2024-04-16,1126.0,4/18/24 20:54,DEM,19368,Joe Biden,46.0,1.5
+86720,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-04-08,2024-04-15,708.0,4/24/24 11:10,DEM,19368,Joe Biden,43.0,1.5
+86720,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-04-08,2024-04-15,708.0,4/24/24 11:10,DEM,19368,Joe Biden,47.0,1.5
+86675,MRG (Marketing Resource Group),1.8,0.1,Live Phone,6.0,Michigan,2024-04-08,2024-04-11,600.0,4/17/24 12:25,DEM,19368,Joe Biden,36.0,1.5
+86675,MRG (Marketing Resource Group),1.8,0.1,Live Phone,6.0,Michigan,2024-04-08,2024-04-11,600.0,4/17/24 12:25,DEM,19368,Joe Biden,34.0,1.5
+86920,Big Data Poll,1.1,0.2,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-26,2024-03-30,1218.0,5/14/24 09:14,DEM,19368,Joe Biden,43.8,1.5
+86920,Big Data Poll,1.1,0.2,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-26,2024-03-30,1145.0,5/14/24 09:14,DEM,19368,Joe Biden,44.7,1.5
+86920,Big Data Poll,1.1,0.2,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-26,2024-03-30,1218.0,5/14/24 09:14,DEM,19368,Joe Biden,41.2,1.5
+86920,Big Data Poll,1.1,0.2,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-26,2024-03-30,1145.0,5/14/24 09:14,DEM,19368,Joe Biden,42.2,1.5
+86920,Big Data Poll,1.1,0.2,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-26,2024-03-30,1218.0,5/14/24 09:15,DEM,19368,Joe Biden,42.2,1.5
+86920,Big Data Poll,1.1,0.2,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-26,2024-03-30,1145.0,5/14/24 09:15,DEM,19368,Joe Biden,42.9,1.5
+86920,Big Data Poll,1.1,0.2,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-26,2024-03-30,1218.0,5/14/24 09:15,DEM,19368,Joe Biden,48.5,1.5
+86920,Big Data Poll,1.1,0.2,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-26,2024-03-30,1145.0,5/14/24 09:15,DEM,19368,Joe Biden,48.5,1.5
+86603,Spry Strategies,1.5,0.2,IVR/Text-to-Web,4.0,Michigan,2024-03-25,2024-03-28,709.0,4/4/24 09:33,DEM,19368,Joe Biden,43.7,1.5
+86603,Spry Strategies,1.5,0.2,IVR/Text-to-Web,4.0,Michigan,2024-03-25,2024-03-28,709.0,4/4/24 09:33,DEM,19368,Joe Biden,39.8,1.5
+86584,Fabrizio/GBAO,,,Live Phone/Text-to-Web,6.0,Michigan,2024-03-17,2024-03-24,600.0,4/2/24 22:05,DEM,19368,Joe Biden,37.0,1.5
+86584,Fabrizio/GBAO,,,Live Phone/Text-to-Web,6.0,Michigan,2024-03-17,2024-03-24,600.0,4/2/24 22:05,DEM,19368,Joe Biden,40.0,1.5
+86584,Fabrizio/GBAO,,,Live Phone/Text-to-Web,6.0,Michigan,2024-03-17,2024-03-24,600.0,4/2/24 22:05,DEM,19368,Joe Biden,45.0,1.5
+87462,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-16,2024-03-20,1000.0,7/18/24 09:42,DEM,19368,Joe Biden,43.6,1.5
+86662,Echelon Insights,2.7,-0.8,Live Phone/Text-to-Web,9.0,Michigan,2024-03-12,2024-03-19,400.0,4/15/24 11:08,DEM,19368,Joe Biden,45.0,1.5
+86502,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Email,7.0,Michigan,2024-03-14,2024-03-18,1000.0,3/21/24 09:22,DEM,19368,Joe Biden,49.7,1.5
+86502,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Email,7.0,Michigan,2024-03-14,2024-03-18,1000.0,3/21/24 09:22,DEM,19368,Joe Biden,40.6,1.5
+86509,CNN/SSRS,2.8,-0.6,Live Phone/Probability Panel,10.0,Michigan,2024-03-13,2024-03-18,1097.0,3/22/24 10:01,DEM,19368,Joe Biden,42.0,1.5
+86509,CNN/SSRS,2.8,-0.6,Live Phone/Probability Panel,10.0,Michigan,2024-03-13,2024-03-18,1097.0,3/22/24 10:01,DEM,19368,Joe Biden,34.0,1.5
+86531,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-03-14,2024-03-17,616.0,3/25/24 12:43,DEM,19368,Joe Biden,39.0,1.5
+86511,Mitchell,2.4,-0.2,Text-to-Web,6.0,Michigan,2024-03-15,2024-03-16,627.0,3/24/24 13:06,DEM,19368,Joe Biden,44.0,1.5
+86511,Mitchell,2.4,-0.2,Text-to-Web,6.0,Michigan,2024-03-15,2024-03-16,627.0,3/24/24 13:06,DEM,19368,Joe Biden,42.0,1.5
+86472,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-03-08,2024-03-12,1487.0,3/14/24 14:41,DEM,19368,Joe Biden,45.0,1.5
+86472,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-03-08,2024-03-12,1487.0,3/14/24 14:41,DEM,19368,Joe Biden,36.0,1.5
+86547,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-03-08,2024-03-12,698.0,3/26/24 11:26,DEM,19368,Joe Biden,40.0,1.5
+86547,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-03-08,2024-03-12,698.0,3/26/24 11:26,DEM,19368,Joe Biden,45.0,1.5
+86192,North Star Opinion Research,1.1,0.3,Live Phone/Text-to-Web,3.0,Michigan,2024-02-22,2024-02-25,600.0,2/26/24 16:46,DEM,19368,Joe Biden,43.0,1.5
+86181,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web/Email,7.0,Michigan,2024-02-20,2024-02-24,1000.0,2/26/24 07:25,DEM,19368,Joe Biden,44.0,1.5
+86181,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web/Email,7.0,Michigan,2024-02-20,2024-02-24,1000.0,2/26/24 07:25,DEM,19368,Joe Biden,38.7,1.5
+86193,Kaplan Strategies,2.0,-0.9,,4.5,Michigan,2024-02-22,2024-02-23,1019.0,2/26/24 16:46,DEM,19368,Joe Biden,36.0,1.5
+86140,EPIC/MRA,1.9,-0.7,Live Phone,3.0,Michigan,2024-02-13,2024-02-18,600.0,2/21/24 09:52,DEM,19368,Joe Biden,41.0,1.5
+86232,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-02-12,2024-02-18,702.0,2/29/24 09:44,DEM,19368,Joe Biden,40.0,1.5
+86232,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-02-12,2024-02-18,702.0,2/29/24 09:44,DEM,19368,Joe Biden,44.0,1.5
+85960,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,6.0,Michigan,2024-02-08,2024-02-12,1106.0,2/14/24 21:20,DEM,19368,Joe Biden,45.0,1.5
+85960,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,6.0,Michigan,2024-02-08,2024-02-12,1106.0,2/14/24 21:21,DEM,19368,Joe Biden,37.0,1.5
+85960,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,6.0,Michigan,2024-02-08,2024-02-12,1106.0,2/14/24 21:21,DEM,19368,Joe Biden,42.0,1.5
+85960,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,6.0,Michigan,2024-02-08,2024-02-12,1106.0,2/14/24 21:21,DEM,19368,Joe Biden,35.0,1.5
+86245,Focaldata,,,Online Opt-In Panel,3.0,Michigan,2024-01-17,2024-01-23,933.0,3/1/24 14:14,DEM,19368,Joe Biden,41.0,1.5
+86245,Focaldata,,,Online Opt-In Panel,3.0,Michigan,2024-01-17,2024-01-23,,3/1/24 14:14,DEM,19368,Joe Biden,50.6,1.5
+85767,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-01-16,2024-01-21,703.0,1/31/24 10:44,DEM,19368,Joe Biden,37.0,1.5
+85767,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-01-16,2024-01-21,703.0,1/31/24 10:44,DEM,19368,Joe Biden,42.0,1.5
+85602,Target Insyght,1.0,0.3,,1.0,Michigan,2024-01-04,2024-01-10,800.0,1/12/24 17:15,DEM,19368,Joe Biden,45.0,1.5
+85576,Glengariff Group Inc.,1.5,-0.2,,1.0,Michigan,2024-01-02,2024-01-06,600.0,1/9/24 17:10,DEM,19368,Joe Biden,39.0,1.5
+85576,Glengariff Group Inc.,1.5,-0.2,,1.0,Michigan,2024-01-02,2024-01-06,600.0,1/9/24 17:11,DEM,19368,Joe Biden,29.0,1.5
+85576,Glengariff Group Inc.,1.5,-0.2,,1.0,Michigan,2024-01-02,2024-01-06,600.0,1/9/24 17:11,DEM,19368,Joe Biden,34.0,1.5
+85543,John Zogby Strategies,1.8,0.0,Online Opt-In Panel,5.0,Michigan,2024-01-02,2024-01-04,602.0,1/7/24 13:15,DEM,19368,Joe Biden,44.0,1.5
+85549,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2023-12-28,2023-12-30,832.0,1/8/24 11:07,DEM,19368,Joe Biden,37.0,1.5
+84962,CNN/SSRS,2.8,-0.6,Live Phone/Text-to-Web/Email/Mail-to-Web,10.0,Michigan,2023-11-29,2023-12-06,1197.0,12/11/23 10:11,DEM,19368,Joe Biden,40.0,1.5
+84962,CNN/SSRS,2.8,-0.6,Live Phone/Text-to-Web/Email/Mail-to-Web,10.0,Michigan,2023-11-29,2023-12-06,1197.0,12/11/23 10:11,DEM,19368,Joe Biden,38.0,1.5
+84962,CNN/SSRS,2.8,-0.6,Live Phone/Text-to-Web/Email/Mail-to-Web,10.0,Michigan,2023-11-29,2023-12-06,1197.0,12/11/23 10:11,DEM,19368,Joe Biden,42.0,1.5
+84962,CNN/SSRS,2.8,-0.6,Live Phone/Text-to-Web/Email/Mail-to-Web,10.0,Michigan,2023-11-29,2023-12-06,1197.0,12/11/23 10:11,DEM,19368,Joe Biden,31.0,1.5
+85340,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2023-11-27,2023-12-06,703.0,12/14/23 09:46,DEM,19368,Joe Biden,35.0,1.5
+85340,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2023-11-27,2023-12-06,703.0,12/14/23 09:46,DEM,19368,Joe Biden,42.0,1.5
+84865,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2023-11-27,2023-11-29,874.0,12/5/23 12:20,DEM,19368,Joe Biden,38.0,1.5
+84865,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2023-11-27,2023-11-29,874.0,12/5/23 12:20,DEM,19368,Joe Biden,39.0,1.5
+84865,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2023-11-27,2023-11-29,874.0,12/5/23 12:20,DEM,19368,Joe Biden,37.0,1.5
+86926,Big Data Poll,1.1,0.2,Online Opt-In Panel/Text-to-Web/Text,7.0,Michigan,2023-11-16,2023-11-19,1273.0,5/14/24 09:17,DEM,19368,Joe Biden,36.0,1.5
+86926,Big Data Poll,1.1,0.2,Online Opt-In Panel/Text-to-Web/Text,7.0,Michigan,2023-11-16,2023-11-19,1200.0,5/14/24 09:17,DEM,19368,Joe Biden,37.1,1.5
+86926,Big Data Poll,1.1,0.2,Online Opt-In Panel/Text-to-Web/Text,7.0,Michigan,2023-11-16,2023-11-19,1273.0,5/14/24 09:17,DEM,19368,Joe Biden,35.1,1.5
+86926,Big Data Poll,1.1,0.2,Online Opt-In Panel/Text-to-Web/Text,7.0,Michigan,2023-11-16,2023-11-19,1200.0,5/14/24 09:17,DEM,19368,Joe Biden,36.0,1.5
+86926,Big Data Poll,1.1,0.2,Online Opt-In Panel/Text-to-Web/Text,7.0,Michigan,2023-11-16,2023-11-19,1273.0,5/14/24 09:17,DEM,19368,Joe Biden,36.2,1.5
+86926,Big Data Poll,1.1,0.2,Online Opt-In Panel/Text-to-Web/Text,7.0,Michigan,2023-11-16,2023-11-19,1200.0,5/14/24 09:17,DEM,19368,Joe Biden,37.2,1.5
+84709,EPIC/MRA,1.9,-0.7,Live Phone,3.0,Michigan,2023-11-10,2023-11-16,600.0,11/18/23 10:33,DEM,19368,Joe Biden,41.0,1.5
+84709,EPIC/MRA,1.9,-0.7,Live Phone,3.0,Michigan,2023-11-10,2023-11-16,600.0,11/18/23 10:33,DEM,19368,Joe Biden,36.0,1.5
+84652,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2023-10-30,2023-11-07,700.0,11/10/23 09:24,DEM,19368,Joe Biden,43.0,1.5
+84652,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2023-10-30,2023-11-07,700.0,11/10/23 09:24,DEM,19368,Joe Biden,38.0,1.5
+84619,Emerson,2.9,-1.1,IVR/Online Opt-In Panel,7.0,Michigan,2023-10-30,2023-11-04,1000.0,11/9/23 09:38,DEM,19368,Joe Biden,42.6,1.5
+84619,Emerson,2.9,-1.1,IVR/Online Opt-In Panel,7.0,Michigan,2023-10-30,2023-11-04,788.0,11/9/23 09:38,DEM,19368,Joe Biden,44.4,1.5
+84544,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2023-10-22,2023-11-03,616.0,11/5/23 10:59,DEM,19368,Joe Biden,43.0,1.5
+84544,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2023-10-22,2023-11-03,616.0,11/5/23 10:59,DEM,19368,Joe Biden,46.0,1.5
+84544,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2023-10-22,2023-11-03,616.0,11/6/23 11:14,DEM,19368,Joe Biden,42.0,1.5
+84544,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2023-10-22,2023-11-03,616.0,11/6/23 11:15,DEM,19368,Joe Biden,44.0,1.5
+84544,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2023-10-22,2023-11-03,616.0,11/6/23 11:15,DEM,19368,Joe Biden,35.0,1.5
+84544,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2023-10-22,2023-11-03,616.0,11/6/23 11:15,DEM,19368,Joe Biden,36.0,1.5
+84544,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2023-10-22,2023-11-03,616.0,11/7/23 09:05,DEM,19368,Joe Biden,31.0,1.5
+84544,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2023-10-22,2023-11-03,616.0,11/7/23 09:05,DEM,19368,Joe Biden,34.0,1.5
+84452,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2023-10-05,2023-10-10,706.0,10/19/23 09:38,DEM,19368,Joe Biden,44.0,1.5
+84413,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2023-10-07,2023-10-09,820.0,10/15/23 14:15,DEM,19368,Joe Biden,41.0,1.5
+84413,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2023-10-07,2023-10-09,820.0,10/15/23 14:16,DEM,19368,Joe Biden,38.0,1.5
+84369,MRG (Marketing Resource Group),1.8,0.1,Live Phone,6.0,Michigan,2023-10-02,2023-10-08,600.0,10/11/23 10:15,DEM,19368,Joe Biden,35.1,1.5
+89375,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-11-03,2024-11-04,1113.0,11/4/24 19:24,DEM,16661,Kamala Harris,47.8,-4.699999999999996
+89375,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-11-03,2024-11-04,1113.0,11/4/24 19:24,DEM,16661,Kamala Harris,48.3,-4.699999999999996
+89322,Research Co.,2.4,-0.5,Online Opt-In Panel,6.0,Michigan,2024-11-02,2024-11-03,450.0,11/4/24 08:43,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+89291,Patriot Polling,1.1,0.6,IVR/Text,5.0,Michigan,2024-11-01,2024-11-03,858.0,11/3/24 12:45,DEM,16661,Kamala Harris,49.2,-4.699999999999996
+89315,Trafalgar Group,0.7,0.6,IVR/Live Phone/Text/Online Opt-In Panel/Email,4.0,Michigan,2024-11-01,2024-11-03,1079.0,11/3/24 21:49,DEM,16661,Kamala Harris,47.4,-4.699999999999996
+89246,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-11-01,2024-11-02,1198.0,11/2/24 20:35,DEM,16661,Kamala Harris,47.8,-4.699999999999996
+89246,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-11-01,2024-11-02,1198.0,11/2/24 20:35,DEM,16661,Kamala Harris,48.2,-4.699999999999996
+89303,InsiderAdvantage,2.0,-0.3,,5.0,Michigan,2024-11-01,2024-11-02,800.0,11/3/24 16:26,DEM,16661,Kamala Harris,47.3,-4.699999999999996
+89337,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-10-30,2024-11-02,790.0,11/4/24 09:15,DEM,16661,Kamala Harris,50.5,-4.699999999999996
+89274,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-10-29,2024-11-02,998.0,11/3/24 09:22,DEM,16661,Kamala Harris,44.0,-4.699999999999996
+89274,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-10-29,2024-11-02,998.0,11/3/24 09:22,DEM,16661,Kamala Harris,42.0,-4.699999999999996
+89274,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-10-29,2024-11-02,998.0,11/3/24 09:22,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+89274,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-10-29,2024-11-02,998.0,11/3/24 09:22,DEM,16661,Kamala Harris,45.0,-4.699999999999996
+89312,Mitchell,2.4,-0.2,Text-to-Web,7.0,Michigan,2024-10-29,2024-11-02,585.0,11/3/24 21:48,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+89312,Mitchell,2.4,-0.2,Text-to-Web,7.0,Michigan,2024-10-29,2024-11-02,585.0,11/3/24 21:48,DEM,16661,Kamala Harris,50.0,-4.699999999999996
+89347,Florida Atlantic University/Mainstreet Research,,,Online Opt-In Panel/Text,6.0,Michigan,2024-10-25,2024-11-02,713.0,11/4/24 10:30,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+89347,Florida Atlantic University/Mainstreet Research,,,Online Opt-In Panel/Text,6.0,Michigan,2024-10-25,2024-11-02,733.0,11/4/24 11:31,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+89279,ActiVote,,,App Panel,8.0,Michigan,2024-10-08,2024-11-02,400.0,11/3/24 09:22,DEM,16661,Kamala Harris,49.7,-4.699999999999996
+89355,Focaldata,,,Online Opt-In Panel,9.0,Michigan,2024-10-03,2024-11-01,2092.0,11/4/24 14:40,DEM,16661,Kamala Harris,50.0,-4.699999999999996
+89355,Focaldata,,,Online Opt-In Panel,9.0,Michigan,2024-10-03,2024-11-01,1941.0,11/4/24 14:40,DEM,16661,Kamala Harris,51.0,-4.699999999999996
+89355,Focaldata,,,Online Opt-In Panel,9.0,Michigan,2024-10-03,2024-11-01,2092.0,11/4/24 14:40,DEM,16661,Kamala Harris,50.0,-4.699999999999996
+89145,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-10-30,2024-10-31,1136.0,10/31/24 15:46,DEM,16661,Kamala Harris,48.3,-4.699999999999996
+89145,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-10-30,2024-10-31,1136.0,10/31/24 15:46,DEM,16661,Kamala Harris,48.7,-4.699999999999996
+89207,OnMessage Inc.,1.1,0.2,,1.0,Michigan,2024-10-29,2024-10-31,800.0,11/1/24 16:31,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+89190,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-10-28,2024-10-31,1731.0,11/1/24 14:24,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+89201,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-10-25,2024-10-31,985.0,11/1/24 16:15,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+89201,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-10-25,2024-10-31,942.0,11/1/24 16:15,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+89201,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-10-25,2024-10-31,985.0,11/1/24 16:15,DEM,16661,Kamala Harris,50.0,-4.699999999999996
+89201,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-10-25,2024-10-31,942.0,11/1/24 16:15,DEM,16661,Kamala Harris,50.0,-4.699999999999996
+89263,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-10-22,2024-10-31,1108.0,11/3/24 09:20,DEM,16661,Kamala Harris,48.5,-4.699999999999996
+89138,Echelon Insights,2.7,-0.8,Live Phone/Text-to-Web,9.0,Michigan,2024-10-27,2024-10-30,600.0,10/31/24 15:07,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+89138,Echelon Insights,2.7,-0.8,Live Phone/Text-to-Web,9.0,Michigan,2024-10-27,2024-10-30,600.0,10/31/24 15:07,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+89161,Marist College,2.9,-0.9,Live Phone/Online Opt-In Panel/Text-to-Web,9.0,Michigan,2024-10-27,2024-10-30,1356.0,11/1/24 09:04,DEM,16661,Kamala Harris,51.0,-4.699999999999996
+89161,Marist College,2.9,-0.9,Live Phone/Online Opt-In Panel/Text-to-Web,9.0,Michigan,2024-10-27,2024-10-30,1214.0,11/1/24 09:04,DEM,16661,Kamala Harris,51.0,-4.699999999999996
+89123,Mitchell,2.4,-0.2,,7.0,Michigan,2024-10-28,2024-10-29,,10/31/24 12:09,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+89059,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-10-25,2024-10-29,983.0,10/29/24 16:37,DEM,16661,Kamala Harris,47.9,-4.699999999999996
+89059,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-10-25,2024-10-29,983.0,10/29/24 16:37,DEM,16661,Kamala Harris,48.1,-4.699999999999996
+89065,Quantus Insights,,,Online Opt-In Panel,5.5,Michigan,2024-10-26,2024-10-28,844.0,10/29/24 19:40,DEM,16661,Kamala Harris,49.2,-4.699999999999996
+89110,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,9.0,Michigan,2024-10-24,2024-10-28,988.0,10/30/24 19:33,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+89110,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,9.0,Michigan,2024-10-24,2024-10-28,1275.0,10/30/24 19:33,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+89110,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,9.0,Michigan,2024-10-24,2024-10-28,988.0,10/30/24 19:33,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+89110,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,9.0,Michigan,2024-10-24,2024-10-28,1275.0,10/30/24 19:33,DEM,16661,Kamala Harris,50.0,-4.699999999999996
+89120,The Washington Post,,,Live Phone/Text-to-Web,9.0,Michigan,2024-10-24,2024-10-28,1003.0,10/31/24 08:58,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+89120,The Washington Post,,,Live Phone/Text-to-Web,9.0,Michigan,2024-10-24,2024-10-28,1003.0,10/31/24 08:58,DEM,16661,Kamala Harris,45.0,-4.699999999999996
+89163,EPIC/MRA,1.9,-0.7,Live Phone,3.0,Michigan,2024-10-24,2024-10-28,600.0,11/1/24 09:05,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+89099,CNN/SSRS,2.8,-0.6,Live Phone/Text-to-Web/Email/Mail-to-Web/Mail-to-Phone,10.0,Michigan,2024-10-23,2024-10-28,726.0,10/30/24 13:06,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+88976,InsiderAdvantage,2.0,-0.3,,5.0,Michigan,2024-10-26,2024-10-27,800.0,10/28/24 08:46,DEM,16661,Kamala Harris,47.9,-4.699999999999996
+89003,Emerson,2.9,-1.1,IVR/Online Opt-In Panel,7.0,Michigan,2024-10-25,2024-10-27,1000.0,10/29/24 08:54,DEM,16661,Kamala Harris,49.3,-4.699999999999996
+89032,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-10-25,2024-10-27,728.0,10/29/24 13:25,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+89082,Suffolk,2.9,-1.0,Live Phone,8.0,Michigan,2024-10-24,2024-10-27,500.0,10/30/24 09:31,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+89017,Susquehanna,2.3,-0.3,,5.5,Michigan,2024-10-23,2024-10-27,400.0,10/29/24 10:26,DEM,16661,Kamala Harris,51.7,-4.699999999999996
+88969,Patriot Polling,1.1,0.6,IVR/Text,5.0,Michigan,2024-10-24,2024-10-26,796.0,10/28/24 08:46,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+89046,CES / YouGov,3.0,-1.1,Online Matched Sample,10.0,Michigan,2024-10-01,2024-10-25,2347.0,10/29/24 16:37,DEM,16661,Kamala Harris,52.0,-4.699999999999996
+89046,CES / YouGov,3.0,-1.1,Online Matched Sample,10.0,Michigan,2024-10-01,2024-10-25,2336.0,10/29/24 16:37,DEM,16661,Kamala Harris,51.0,-4.699999999999996
+88994,Glengariff Group Inc.,1.5,-0.2,Live Phone,1.0,Michigan,2024-10-22,2024-10-24,600.0,10/28/24 18:55,DEM,16661,Kamala Harris,46.7,-4.699999999999996
+89116,University of Massachusetts Lowell/YouGov,2.9,-1.0,Online Matched Sample,9.0,Michigan,2024-10-16,2024-10-24,600.0,10/31/24 08:55,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+88945,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-10-20,2024-10-22,1115.0,10/25/24 12:30,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+88893,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-10-17,2024-10-21,1136.0,10/23/24 14:04,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+88893,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-10-17,2024-10-21,1136.0,10/23/24 14:04,DEM,16661,Kamala Harris,50.0,-4.699999999999996
+88845,Trafalgar Group,0.7,0.6,IVR/Live Phone/Text/Online Opt-In Panel/Email,4.0,Michigan,2024-10-18,2024-10-20,1090.0,10/22/24 09:06,DEM,16661,Kamala Harris,44.2,-4.699999999999996
+88901,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-10-16,2024-10-20,756.0,10/23/24 19:17,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+88901,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-10-16,2024-10-20,756.0,10/23/24 19:17,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+88901,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-10-16,2024-10-20,705.0,10/23/24 19:17,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+88901,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-10-16,2024-10-20,705.0,10/23/24 19:17,DEM,16661,Kamala Harris,50.0,-4.699999999999996
+88830,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-10-16,2024-10-18,1008.0,10/21/24 13:07,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+88797,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-10-12,2024-10-17,1529.0,10/20/24 13:11,DEM,16661,Kamala Harris,46.8,-4.699999999999996
+88797,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-10-12,2024-10-17,1529.0,10/20/24 13:11,DEM,16661,Kamala Harris,47.3,-4.699999999999996
+88779,Bullfinch,,,Online Opt-In Panel,4.0,Michigan,2024-10-11,2024-10-17,600.0,10/18/24 14:49,DEM,16661,Kamala Harris,53.0,-4.699999999999996
+88779,Bullfinch,,,Online Opt-In Panel,4.0,Michigan,2024-10-11,2024-10-17,600.0,10/18/24 14:49,DEM,16661,Kamala Harris,51.0,-4.699999999999996
+88760,RMG Research,2.3,-0.4,Online Opt-In Panel,5.0,Michigan,2024-10-10,2024-10-16,789.0,10/17/24 13:51,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+88749,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-10-06,2024-10-15,1065.0,10/17/24 13:25,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+88811,Washington Post/George Mason University,2.7,-0.8,Live Phone/Text-to-Web/Email/Mail-to-Web,9.0,Michigan,2024-09-30,2024-10-15,687.0,10/21/24 08:43,DEM,16661,Kamala Harris,46.0,-4.699999999999996
+88811,Washington Post/George Mason University,2.7,-0.8,Live Phone/Text-to-Web/Email/Mail-to-Web,9.0,Michigan,2024-09-30,2024-10-15,687.0,10/21/24 09:24,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+88744,Mitchell,2.4,-0.2,,7.0,Michigan,2024-10-14,2024-10-14,589.0,10/17/24 09:45,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+88744,Mitchell,2.4,-0.2,,7.0,Michigan,2024-10-14,2024-10-14,589.0,10/17/24 09:45,DEM,16661,Kamala Harris,47.4,-4.699999999999996
+88728,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-10-12,2024-10-14,682.0,10/16/24 12:21,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+88689,SoCal Strategies,,,Online Opt-In Panel,9.0,Michigan,2024-10-11,2024-10-13,692.0,10/15/24 08:55,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+88708,MRG (Marketing Resource Group),1.8,0.1,Live Phone,6.0,Michigan,2024-10-07,2024-10-11,600.0,10/15/24 19:39,DEM,16661,Kamala Harris,44.9,-4.699999999999996
+88924,Michigan State University/YouGov,2.5,-0.6,Online Matched Sample,3.0,Michigan,2024-09-23,2024-10-10,845.0,10/24/24 16:24,DEM,16661,Kamala Harris,52.4,-4.699999999999996
+88636,InsiderAdvantage,2.0,-0.3,Text,5.0,Michigan,2024-10-08,2024-10-09,800.0,10/10/24 19:55,DEM,16661,Kamala Harris,46.0,-4.699999999999996
+88626,Fabrizio/McLaughlin,,0.3,Live Phone/Text-to-Web,1.0,Michigan,2024-10-06,2024-10-09,800.0,10/10/24 14:36,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+88656,ActiVote,,,App Panel,8.0,Michigan,2024-09-15,2024-10-09,400.0,10/11/24 10:25,DEM,16661,Kamala Harris,51.2,-4.699999999999996
+88608,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-10-05,2024-10-08,950.0,10/10/24 08:53,DEM,16661,Kamala Harris,49.7,-4.699999999999996
+88700,Fabrizio/Impact,1.7,-0.3,Live Phone/Text-to-Web,2.0,Michigan,2024-10-02,2024-10-08,600.0,10/15/24 11:00,DEM,16661,Kamala Harris,46.0,-4.699999999999996
+88700,Fabrizio/Impact,1.7,-0.3,Live Phone/Text-to-Web,2.0,Michigan,2024-10-02,2024-10-08,600.0,10/15/24 11:00,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+88641,Fabrizio/GBAO,,,,6.0,Michigan,2024-09-28,2024-10-08,600.0,10/11/24 08:48,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+88641,Fabrizio/GBAO,,,,6.0,Michigan,2024-09-28,2024-10-08,600.0,10/11/24 08:48,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+88574,Research Co.,2.4,-0.5,Online Opt-In Panel,6.0,Michigan,2024-10-05,2024-10-07,450.0,10/8/24 14:28,DEM,16661,Kamala Harris,51.0,-4.699999999999996
+88591,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-10-03,2024-10-07,1007.0,10/9/24 14:04,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+88591,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-10-03,2024-10-07,1007.0,10/9/24 14:04,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+88545,Glengariff Group Inc.,1.5,-0.2,Live Phone,1.0,Michigan,2024-10-01,2024-10-04,600.0,10/7/24 19:26,DEM,16661,Kamala Harris,46.8,-4.699999999999996
+88533,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-09-27,2024-10-02,839.0,10/7/24 12:53,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+88650,OnMessage Public Strategies,1.1,0.2,Live Phone,1.0,Michigan,2024-09-24,2024-10-02,500.0,10/11/24 10:25,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+88504,Mitchell,2.4,-0.2,Text-to-Web,7.0,Michigan,2024-09-30,2024-09-30,709.0,10/3/24 14:03,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+88504,Mitchell,2.4,-0.2,Text-to-Web,7.0,Michigan,2024-09-30,2024-09-30,709.0,10/3/24 14:03,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+88484,Trafalgar Group,0.7,0.6,IVR/Live Phone/Text/Online Opt-In Panel/Email,4.0,Michigan,2024-09-28,2024-09-30,1086.0,10/2/24 12:56,DEM,16661,Kamala Harris,44.7,-4.699999999999996
+88596,Global Strategy Group/North Star Opinion Research,,,,3.5,Michigan,2024-09-23,2024-09-29,404.0,10/9/24 14:16,DEM,16661,Kamala Harris,46.0,-4.699999999999996
+88596,Global Strategy Group/North Star Opinion Research,,,,3.5,Michigan,2024-09-23,2024-09-29,404.0,10/9/24 14:16,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+88440,RMG Research,2.3,-0.4,Online Opt-In Panel,5.0,Michigan,2024-09-24,2024-09-27,789.0,10/1/24 14:08,DEM,16661,Kamala Harris,50.0,-4.699999999999996
+88404,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-09-21,2024-09-26,688.0,9/28/24 10:30,DEM,16661,Kamala Harris,45.0,-4.699999999999996
+88404,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-09-21,2024-09-26,688.0,9/28/24 10:30,DEM,16661,Kamala Harris,43.0,-4.699999999999996
+88404,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-09-21,2024-09-26,688.0,9/28/24 10:30,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+88404,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-09-21,2024-09-26,688.0,9/28/24 10:31,DEM,16661,Kamala Harris,46.0,-4.699999999999996
+88411,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-09-20,2024-09-25,918.0,9/29/24 13:12,DEM,16661,Kamala Harris,46.6,-4.699999999999996
+88411,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-09-20,2024-09-25,918.0,9/29/24 13:12,DEM,16661,Kamala Harris,47.2,-4.699999999999996
+88385,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-09-19,2024-09-25,894.0,9/26/24 20:25,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+88385,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-09-19,2024-09-25,894.0,9/26/24 20:25,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+88385,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-09-19,2024-09-25,800.0,9/26/24 20:25,DEM,16661,Kamala Harris,50.0,-4.699999999999996
+88385,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-09-19,2024-09-25,800.0,9/26/24 20:25,DEM,16661,Kamala Harris,50.0,-4.699999999999996
+88471,Benenson Strategy Group/GS Strategy Group,,,Online Opt-In Panel/Text-to-Web,0.0,Michigan,2024-09-19,2024-09-25,416.0,10/2/24 09:06,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+88471,Benenson Strategy Group/GS Strategy Group,,,Online Opt-In Panel/Text-to-Web,0.0,Michigan,2024-09-19,2024-09-25,416.0,10/2/24 09:06,DEM,16661,Kamala Harris,51.0,-4.699999999999996
+88890,RG Strategies,,,Live Phone/Text-to-Web/Email,2.0,Michigan,2024-09-19,2024-09-23,400.0,10/23/24 13:56,DEM,16661,Kamala Harris,51.0,-4.699999999999996
+88441,Remington,2.6,-0.6,,7.0,Michigan,2024-09-16,2024-09-20,800.0,10/1/24 10:18,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+88290,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-09-16,2024-09-19,993.0,9/23/24 13:10,DEM,16661,Kamala Harris,46.0,-4.699999999999996
+88371,University of Massachusetts Lowell/YouGov,2.9,-1.0,Online Matched Sample,9.0,Michigan,2024-09-11,2024-09-19,650.0,9/26/24 10:43,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+88301,Suffolk,2.9,-1.0,Live Phone,8.0,Michigan,2024-09-16,2024-09-18,500.0,9/24/24 09:12,DEM,16661,Kamala Harris,47.6,-4.699999999999996
+88237,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-09-15,2024-09-18,875.0,9/19/24 09:21,DEM,16661,Kamala Harris,50.0,-4.699999999999996
+88251,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-09-09,2024-09-18,1297.0,9/19/24 19:55,DEM,16661,Kamala Harris,51.97,-4.699999999999996
+88234,Marist College,2.9,-0.9,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-09-12,2024-09-17,1282.0,9/19/24 09:21,DEM,16661,Kamala Harris,50.0,-4.699999999999996
+88234,Marist College,2.9,-0.9,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-09-12,2024-09-17,1138.0,9/19/24 09:21,DEM,16661,Kamala Harris,52.0,-4.699999999999996
+88212,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-09-12,2024-09-16,905.0,9/18/24 13:07,DEM,16661,Kamala Harris,50.0,-4.699999999999996
+88212,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-09-12,2024-09-16,905.0,9/18/24 13:07,DEM,16661,Kamala Harris,51.0,-4.699999999999996
+88344,Focaldata,,,,9.0,Michigan,2024-09-03,2024-09-16,1114.0,9/25/24 09:02,DEM,16661,Kamala Harris,48.7,-4.699999999999996
+88344,Focaldata,,,,9.0,Michigan,2024-09-03,2024-09-16,1114.0,9/25/24 09:02,DEM,16661,Kamala Harris,50.6,-4.699999999999996
+88344,Focaldata,,,,9.0,Michigan,2024-09-03,2024-09-16,1114.0,9/25/24 10:01,DEM,16661,Kamala Harris,49.2,-4.699999999999996
+88344,Focaldata,,,,9.0,Michigan,2024-09-03,2024-09-16,1114.0,9/25/24 10:01,DEM,16661,Kamala Harris,49.9,-4.699999999999996
+88143,InsiderAdvantage,2.0,-0.3,Text,5.0,Michigan,2024-09-11,2024-09-12,800.0,9/12/24 12:22,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+88160,Mitchell,2.4,-0.2,IVR/Text-to-Web,7.0,Michigan,2024-09-11,2024-09-11,580.0,9/13/24 13:01,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+88160,Mitchell,2.4,-0.2,IVR/Text-to-Web,7.0,Michigan,2024-09-11,2024-09-11,580.0,9/13/24 13:01,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+88117,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-09-06,2024-09-09,556.0,9/10/24 13:17,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+88088,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-08-30,2024-09-08,1368.0,9/9/24 20:30,DEM,16661,Kamala Harris,49.19,-4.699999999999996
+88125,co/efficient,1.1,0.3,IVR/Text,5.0,Michigan,2024-09-04,2024-09-06,931.0,9/10/24 15:39,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+88070,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-09-03,2024-09-06,1077.0,9/8/24 13:36,DEM,16661,Kamala Harris,50.0,-4.699999999999996
+88045,Patriot Polling,1.1,0.6,IVR/Text,5.0,Michigan,2024-09-01,2024-09-03,822.0,9/5/24 20:34,DEM,16661,Kamala Harris,48.4,-4.699999999999996
+88150,Cygnal,2.1,-1.1,,4.0,Michigan,2024-08-28,2024-09-01,600.0,9/13/24 08:45,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+87992,Trafalgar Group,0.7,0.6,IVR/Live Phone/Text/Online Opt-In Panel/Email,4.0,Michigan,2024-08-28,2024-08-30,1089.0,8/31/24 13:18,DEM,16661,Kamala Harris,46.6,-4.699999999999996
+88017,CNN/SSRS,2.8,-0.6,Probability Panel,10.0,Michigan,2024-08-23,2024-08-29,708.0,9/4/24 08:51,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+88014,Glengariff Group Inc.,1.5,-0.2,Live Phone,1.0,Michigan,2024-08-26,2024-08-28,600.0,9/3/24 19:24,DEM,16661,Kamala Harris,43.5,-4.699999999999996
+87936,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-08-25,2024-08-28,800.0,8/29/24 09:39,DEM,16661,Kamala Harris,51.2,-4.699999999999996
+87975,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-08-25,2024-08-28,761.0,8/30/24 12:32,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+87926,ActiVote,,,App Panel,8.0,Michigan,2024-07-28,2024-08-28,400.0,8/28/24 13:30,DEM,16661,Kamala Harris,50.1,-4.699999999999996
+87953,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-08-23,2024-08-26,702.0,8/29/24 20:14,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+87953,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-08-23,2024-08-26,702.0,8/29/24 20:14,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+87953,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-08-23,2024-08-26,651.0,8/29/24 20:14,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+87953,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-08-23,2024-08-26,651.0,8/29/24 20:14,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+87970,EPIC/MRA,1.9,-0.7,Live Phone,3.0,Michigan,2024-08-23,2024-08-26,600.0,8/30/24 12:02,DEM,16661,Kamala Harris,45.0,-4.699999999999996
+87970,EPIC/MRA,1.9,-0.7,Live Phone,3.0,Michigan,2024-08-23,2024-08-26,600.0,8/30/24 12:02,DEM,16661,Kamala Harris,46.0,-4.699999999999996
+88032,Z to A Research,,,Text-to-Web/Online Ad,3.5,Michigan,2024-08-23,2024-08-26,500.0,9/5/24 09:01,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+88032,Z to A Research,,,Text-to-Web/Online Ad,3.5,Michigan,2024-08-23,2024-08-26,500.0,1/6/25 10:22,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+88082,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-08-15,2024-08-23,500.0,9/9/24 16:59,DEM,16661,Kamala Harris,44.0,-4.699999999999996
+88082,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-08-15,2024-08-23,,9/9/24 16:59,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+88082,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-08-15,2024-08-23,500.0,9/9/24 16:59,DEM,16661,Kamala Harris,44.0,-4.699999999999996
+88082,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-08-15,2024-08-23,,9/9/24 16:59,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+87893,TIPP,1.8,-0.4,Online Opt-In Panel,3.0,Michigan,2024-08-20,2024-08-22,1001.0,8/25/24 13:18,DEM,16661,Kamala Harris,46.4,-4.699999999999996
+87893,TIPP,1.8,-0.4,Online Opt-In Panel,3.0,Michigan,2024-08-20,2024-08-22,741.0,8/25/24 13:18,DEM,16661,Kamala Harris,48.4,-4.699999999999996
+87893,TIPP,1.8,-0.4,Online Opt-In Panel,3.0,Michigan,2024-08-20,2024-08-22,1001.0,8/25/24 13:18,DEM,16661,Kamala Harris,43.7,-4.699999999999996
+87893,TIPP,1.8,-0.4,Online Opt-In Panel,3.0,Michigan,2024-08-20,2024-08-22,741.0,8/25/24 13:18,DEM,16661,Kamala Harris,46.8,-4.699999999999996
+87940,Fabrizio Ward,1.7,-0.1,Online Opt-In Panel/Text-to-Web,6.5,Michigan,2024-08-19,2024-08-21,400.0,8/29/24 09:40,DEM,16661,Kamala Harris,44.0,-4.699999999999996
+87940,Fabrizio Ward,1.7,-0.1,Online Opt-In Panel/Text-to-Web,6.5,Michigan,2024-08-19,2024-08-21,400.0,8/29/24 09:40,DEM,16661,Kamala Harris,46.0,-4.699999999999996
+87813,Focaldata,,,,3.0,Michigan,2024-08-06,2024-08-16,702.0,8/19/24 08:54,DEM,16661,Kamala Harris,53.1,-4.699999999999996
+87813,Focaldata,,,,3.0,Michigan,2024-08-06,2024-08-16,702.0,8/19/24 14:41,DEM,16661,Kamala Harris,50.0,-4.699999999999996
+87813,Focaldata,,,,3.0,Michigan,2024-08-06,2024-08-16,,8/19/24 14:41,DEM,16661,Kamala Harris,50.0,-4.699999999999996
+87813,Focaldata,,,,3.0,Michigan,2024-08-06,2024-08-16,702.0,8/19/24 14:42,DEM,16661,Kamala Harris,50.8,-4.699999999999996
+87824,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-08-12,2024-08-15,530.0,8/19/24 14:02,DEM,16661,Kamala Harris,44.0,-4.699999999999996
+87729,Bullfinch,,,Online Opt-In Panel,4.0,Michigan,2024-08-08,2024-08-11,500.0,8/12/24 14:12,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+87729,Bullfinch,,,Online Opt-In Panel,4.0,Michigan,2024-08-08,2024-08-11,500.0,8/12/24 14:12,DEM,16661,Kamala Harris,46.0,-4.699999999999996
+87785,Fabrizio/Impact,1.7,-0.3,Live Phone/Text-to-Web,2.0,Michigan,2024-08-07,2024-08-11,600.0,8/15/24 13:01,DEM,16661,Kamala Harris,43.0,-4.699999999999996
+87785,Fabrizio/Impact,1.7,-0.3,Live Phone/Text-to-Web,2.0,Michigan,2024-08-07,2024-08-11,600.0,8/15/24 13:01,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+87713,InsiderAdvantage,2.0,-0.3,,5.0,Michigan,2024-08-06,2024-08-08,800.0,8/9/24 20:20,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+87719,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-08-05,2024-08-08,619.0,8/10/24 15:14,DEM,16661,Kamala Harris,45.0,-4.699999999999996
+87719,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-08-05,2024-08-08,619.0,8/10/24 15:16,DEM,16661,Kamala Harris,50.0,-4.699999999999996
+87719,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-08-05,2024-08-08,619.0,8/10/24 15:16,DEM,16661,Kamala Harris,44.0,-4.699999999999996
+87719,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-08-05,2024-08-08,619.0,8/10/24 15:16,DEM,16661,Kamala Harris,48.0,-4.699999999999996
+87849,Navigator,1.3,0.3,Text-to-Web,4.5,Michigan,2024-07-31,2024-08-08,600.0,8/20/24 15:24,DEM,16661,Kamala Harris,44.0,-4.699999999999996
+87849,Navigator,1.3,0.3,Text-to-Web,4.5,Michigan,2024-07-31,2024-08-08,600.0,8/20/24 15:24,DEM,16661,Kamala Harris,47.0,-4.699999999999996
+87685,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-07-31,2024-08-03,771.0,8/6/24 12:15,DEM,16661,Kamala Harris,41.0,-4.699999999999996
+87765,Benenson Strategy Group/GS Strategy Group,,,Online Opt-In Panel/Text-to-Web,0.0,Michigan,2024-07-26,2024-08-02,406.0,8/14/24 10:03,DEM,16661,Kamala Harris,46.0,-4.699999999999996
+87765,Benenson Strategy Group/GS Strategy Group,,,Online Opt-In Panel/Text-to-Web,0.0,Michigan,2024-07-26,2024-08-02,406.0,8/14/24 10:03,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+87645,Public Opinion Strategies,1.6,0.3,Online Opt-In Panel/Text-to-Web,3.0,Michigan,2024-07-23,2024-07-29,400.0,8/1/24 09:25,DEM,16661,Kamala Harris,45.0,-4.699999999999996
+87623,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-07-24,2024-07-28,706.0,7/30/24 20:12,DEM,16661,Kamala Harris,51.0,-4.699999999999996
+87623,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-07-24,2024-07-28,706.0,7/30/24 20:12,DEM,16661,Kamala Harris,53.0,-4.699999999999996
+87577,SoCal Research,,,Online Ad,8.0,Michigan,2024-07-25,2024-07-26,500.0,7/26/24 16:26,DEM,16661,Kamala Harris,46.0,-4.699999999999996
+87569,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-07-22,2024-07-24,512.0,7/26/24 09:48,DEM,16661,Kamala Harris,41.0,-4.699999999999996
+87572,Glengariff Group Inc.,1.5,-0.2,Live Phone,1.0,Michigan,2024-07-22,2024-07-24,600.0,7/26/24 09:48,DEM,16661,Kamala Harris,41.6,-4.699999999999996
+87585,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,9.0,Michigan,2024-07-22,2024-07-24,1012.0,7/26/24 20:33,DEM,16661,Kamala Harris,43.0,-4.699999999999996
+87585,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,9.0,Michigan,2024-07-22,2024-07-24,1012.0,7/26/24 20:34,DEM,16661,Kamala Harris,49.0,-4.699999999999996
+87544,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-07-22,2024-07-23,800.0,7/25/24 09:06,DEM,16661,Kamala Harris,49.1,-4.699999999999996
+87544,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-07-22,2024-07-23,800.0,7/25/24 09:06,DEM,16661,Kamala Harris,43.8,-4.699999999999996
+87486,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-17,2024-07-18,650.0,7/18/24 20:18,DEM,16661,Kamala Harris,41.0,-4.699999999999996
+87494,Civiqs,2.4,-0.2,Online Opt-In Panel/Online Ad,8.0,Michigan,2024-07-13,2024-07-16,532.0,7/19/24 15:24,DEM,16661,Kamala Harris,46.0,-4.699999999999996
+87513,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-11,2024-07-12,568.0,7/22/24 09:27,DEM,16661,Kamala Harris,46.0,-4.699999999999996
+89375,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-11-03,2024-11-04,1113.0,11/4/24 19:24,REP,16651,Donald Trump,49.6,1.2999999999999972
+89375,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-11-03,2024-11-04,1113.0,11/4/24 19:24,REP,16651,Donald Trump,49.8,1.2999999999999972
+89322,Research Co.,2.4,-0.5,Online Opt-In Panel,6.0,Michigan,2024-11-02,2024-11-03,450.0,11/4/24 08:43,REP,16651,Donald Trump,47.0,1.2999999999999972
+89291,Patriot Polling,1.1,0.6,IVR/Text,5.0,Michigan,2024-11-01,2024-11-03,858.0,11/3/24 12:45,REP,16651,Donald Trump,48.5,1.2999999999999972
+89315,Trafalgar Group,0.7,0.6,IVR/Live Phone/Text/Online Opt-In Panel/Email,4.0,Michigan,2024-11-01,2024-11-03,1079.0,11/3/24 21:49,REP,16651,Donald Trump,47.8,1.2999999999999972
+89246,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-11-01,2024-11-02,1198.0,11/2/24 20:35,REP,16651,Donald Trump,49.3,1.2999999999999972
+89246,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-11-01,2024-11-02,1198.0,11/2/24 20:35,REP,16651,Donald Trump,49.7,1.2999999999999972
+89303,InsiderAdvantage,2.0,-0.3,,5.0,Michigan,2024-11-01,2024-11-02,800.0,11/3/24 16:26,REP,16651,Donald Trump,47.2,1.2999999999999972
+89337,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-10-30,2024-11-02,790.0,11/4/24 09:15,REP,16651,Donald Trump,48.9,1.2999999999999972
+89274,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-10-29,2024-11-02,998.0,11/3/24 09:22,REP,16651,Donald Trump,47.0,1.2999999999999972
+89274,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-10-29,2024-11-02,998.0,11/3/24 09:22,REP,16651,Donald Trump,44.0,1.2999999999999972
+89274,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-10-29,2024-11-02,998.0,11/3/24 09:22,REP,16651,Donald Trump,47.0,1.2999999999999972
+89274,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-10-29,2024-11-02,998.0,11/3/24 09:22,REP,16651,Donald Trump,45.0,1.2999999999999972
+89312,Mitchell,2.4,-0.2,Text-to-Web,7.0,Michigan,2024-10-29,2024-11-02,585.0,11/3/24 21:48,REP,16651,Donald Trump,48.0,1.2999999999999972
+89312,Mitchell,2.4,-0.2,Text-to-Web,7.0,Michigan,2024-10-29,2024-11-02,585.0,11/3/24 21:48,REP,16651,Donald Trump,48.0,1.2999999999999972
+89347,Florida Atlantic University/Mainstreet Research,,,Online Opt-In Panel/Text,6.0,Michigan,2024-10-25,2024-11-02,713.0,11/4/24 10:30,REP,16651,Donald Trump,47.0,1.2999999999999972
+89347,Florida Atlantic University/Mainstreet Research,,,Online Opt-In Panel/Text,6.0,Michigan,2024-10-25,2024-11-02,733.0,11/4/24 11:31,REP,16651,Donald Trump,46.0,1.2999999999999972
+89279,ActiVote,,,App Panel,8.0,Michigan,2024-10-08,2024-11-02,400.0,11/3/24 09:22,REP,16651,Donald Trump,50.3,1.2999999999999972
+89355,Focaldata,,,Online Opt-In Panel,9.0,Michigan,2024-10-03,2024-11-01,2092.0,11/4/24 14:40,REP,16651,Donald Trump,44.0,1.2999999999999972
+89355,Focaldata,,,Online Opt-In Panel,9.0,Michigan,2024-10-03,2024-11-01,1941.0,11/4/24 14:40,REP,16651,Donald Trump,44.0,1.2999999999999972
+89355,Focaldata,,,Online Opt-In Panel,9.0,Michigan,2024-10-03,2024-11-01,2092.0,11/4/24 14:40,REP,16651,Donald Trump,45.0,1.2999999999999972
+89145,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-10-30,2024-10-31,1136.0,10/31/24 15:46,REP,16651,Donald Trump,49.2,1.2999999999999972
+89145,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-10-30,2024-10-31,1136.0,10/31/24 15:46,REP,16651,Donald Trump,49.3,1.2999999999999972
+89207,OnMessage Inc.,1.1,0.2,,1.0,Michigan,2024-10-29,2024-10-31,800.0,11/1/24 16:31,REP,16651,Donald Trump,48.0,1.2999999999999972
+89190,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-10-28,2024-10-31,1731.0,11/1/24 14:24,REP,16651,Donald Trump,47.0,1.2999999999999972
+89201,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-10-25,2024-10-31,985.0,11/1/24 16:15,REP,16651,Donald Trump,45.0,1.2999999999999972
+89201,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-10-25,2024-10-31,942.0,11/1/24 16:15,REP,16651,Donald Trump,45.0,1.2999999999999972
+89201,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-10-25,2024-10-31,985.0,11/1/24 16:15,REP,16651,Donald Trump,46.0,1.2999999999999972
+89201,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-10-25,2024-10-31,942.0,11/1/24 16:15,REP,16651,Donald Trump,47.0,1.2999999999999972
+89263,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-10-22,2024-10-31,1108.0,11/3/24 09:20,REP,16651,Donald Trump,47.5,1.2999999999999972
+89138,Echelon Insights,2.7,-0.8,Live Phone/Text-to-Web,9.0,Michigan,2024-10-27,2024-10-30,600.0,10/31/24 15:07,REP,16651,Donald Trump,47.0,1.2999999999999972
+89138,Echelon Insights,2.7,-0.8,Live Phone/Text-to-Web,9.0,Michigan,2024-10-27,2024-10-30,600.0,10/31/24 15:07,REP,16651,Donald Trump,48.0,1.2999999999999972
+89161,Marist College,2.9,-0.9,Live Phone/Online Opt-In Panel/Text-to-Web,9.0,Michigan,2024-10-27,2024-10-30,1356.0,11/1/24 09:04,REP,16651,Donald Trump,48.0,1.2999999999999972
+89161,Marist College,2.9,-0.9,Live Phone/Online Opt-In Panel/Text-to-Web,9.0,Michigan,2024-10-27,2024-10-30,1214.0,11/1/24 09:04,REP,16651,Donald Trump,48.0,1.2999999999999972
+89123,Mitchell,2.4,-0.2,,7.0,Michigan,2024-10-28,2024-10-29,,10/31/24 12:09,REP,16651,Donald Trump,48.0,1.2999999999999972
+89059,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-10-25,2024-10-29,983.0,10/29/24 16:37,REP,16651,Donald Trump,49.2,1.2999999999999972
+89059,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-10-25,2024-10-29,983.0,10/29/24 16:37,REP,16651,Donald Trump,49.3,1.2999999999999972
+89065,Quantus Insights,,,Online Opt-In Panel,5.5,Michigan,2024-10-26,2024-10-28,844.0,10/29/24 19:40,REP,16651,Donald Trump,48.5,1.2999999999999972
+89110,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,9.0,Michigan,2024-10-24,2024-10-28,988.0,10/30/24 19:33,REP,16651,Donald Trump,46.0,1.2999999999999972
+89110,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,9.0,Michigan,2024-10-24,2024-10-28,1275.0,10/30/24 19:33,REP,16651,Donald Trump,45.0,1.2999999999999972
+89110,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,9.0,Michigan,2024-10-24,2024-10-28,988.0,10/30/24 19:33,REP,16651,Donald Trump,49.0,1.2999999999999972
+89110,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,9.0,Michigan,2024-10-24,2024-10-28,1275.0,10/30/24 19:33,REP,16651,Donald Trump,48.0,1.2999999999999972
+89120,The Washington Post,,,Live Phone/Text-to-Web,9.0,Michigan,2024-10-24,2024-10-28,1003.0,10/31/24 08:58,REP,16651,Donald Trump,46.0,1.2999999999999972
+89120,The Washington Post,,,Live Phone/Text-to-Web,9.0,Michigan,2024-10-24,2024-10-28,1003.0,10/31/24 08:58,REP,16651,Donald Trump,47.0,1.2999999999999972
+89163,EPIC/MRA,1.9,-0.7,Live Phone,3.0,Michigan,2024-10-24,2024-10-28,600.0,11/1/24 09:05,REP,16651,Donald Trump,45.0,1.2999999999999972
+89099,CNN/SSRS,2.8,-0.6,Live Phone/Text-to-Web/Email/Mail-to-Web/Mail-to-Phone,10.0,Michigan,2024-10-23,2024-10-28,726.0,10/30/24 13:06,REP,16651,Donald Trump,43.0,1.2999999999999972
+88976,InsiderAdvantage,2.0,-0.3,,5.0,Michigan,2024-10-26,2024-10-27,800.0,10/28/24 08:46,REP,16651,Donald Trump,48.5,1.2999999999999972
+89003,Emerson,2.9,-1.1,IVR/Online Opt-In Panel,7.0,Michigan,2024-10-25,2024-10-27,1000.0,10/29/24 08:54,REP,16651,Donald Trump,49.8,1.2999999999999972
+89032,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-10-25,2024-10-27,728.0,10/29/24 13:25,REP,16651,Donald Trump,48.0,1.2999999999999972
+89082,Suffolk,2.9,-1.0,Live Phone,8.0,Michigan,2024-10-24,2024-10-27,500.0,10/30/24 09:31,REP,16651,Donald Trump,47.4,1.2999999999999972
+89017,Susquehanna,2.3,-0.3,,5.5,Michigan,2024-10-23,2024-10-27,400.0,10/29/24 10:26,REP,16651,Donald Trump,46.6,1.2999999999999972
+88969,Patriot Polling,1.1,0.6,IVR/Text,5.0,Michigan,2024-10-24,2024-10-26,796.0,10/28/24 08:46,REP,16651,Donald Trump,50.0,1.2999999999999972
+89046,CES / YouGov,3.0,-1.1,Online Matched Sample,10.0,Michigan,2024-10-01,2024-10-25,2347.0,10/29/24 16:37,REP,16651,Donald Trump,45.0,1.2999999999999972
+89046,CES / YouGov,3.0,-1.1,Online Matched Sample,10.0,Michigan,2024-10-01,2024-10-25,2336.0,10/29/24 16:37,REP,16651,Donald Trump,46.0,1.2999999999999972
+88994,Glengariff Group Inc.,1.5,-0.2,Live Phone,1.0,Michigan,2024-10-22,2024-10-24,600.0,10/28/24 18:55,REP,16651,Donald Trump,43.7,1.2999999999999972
+89116,University of Massachusetts Lowell/YouGov,2.9,-1.0,Online Matched Sample,9.0,Michigan,2024-10-16,2024-10-24,600.0,10/31/24 08:55,REP,16651,Donald Trump,45.0,1.2999999999999972
+88945,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-10-20,2024-10-22,1115.0,10/25/24 12:30,REP,16651,Donald Trump,47.0,1.2999999999999972
+88893,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-10-17,2024-10-21,1136.0,10/23/24 14:04,REP,16651,Donald Trump,46.0,1.2999999999999972
+88893,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-10-17,2024-10-21,1136.0,10/23/24 14:04,REP,16651,Donald Trump,46.0,1.2999999999999972
+88845,Trafalgar Group,0.7,0.6,IVR/Live Phone/Text/Online Opt-In Panel/Email,4.0,Michigan,2024-10-18,2024-10-20,1090.0,10/22/24 09:06,REP,16651,Donald Trump,46.0,1.2999999999999972
+88901,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-10-16,2024-10-20,756.0,10/23/24 19:17,REP,16651,Donald Trump,45.0,1.2999999999999972
+88901,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-10-16,2024-10-20,756.0,10/23/24 19:17,REP,16651,Donald Trump,46.0,1.2999999999999972
+88901,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-10-16,2024-10-20,705.0,10/23/24 19:17,REP,16651,Donald Trump,46.0,1.2999999999999972
+88901,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-10-16,2024-10-20,705.0,10/23/24 19:17,REP,16651,Donald Trump,46.0,1.2999999999999972
+88830,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-10-16,2024-10-18,1008.0,10/21/24 13:07,REP,16651,Donald Trump,47.0,1.2999999999999972
+88797,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-10-12,2024-10-17,1529.0,10/20/24 13:11,REP,16651,Donald Trump,49.6,1.2999999999999972
+88797,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-10-12,2024-10-17,1529.0,10/20/24 13:11,REP,16651,Donald Trump,50.2,1.2999999999999972
+88779,Bullfinch,,,Online Opt-In Panel,4.0,Michigan,2024-10-11,2024-10-17,600.0,10/18/24 14:49,REP,16651,Donald Trump,45.0,1.2999999999999972
+88779,Bullfinch,,,Online Opt-In Panel,4.0,Michigan,2024-10-11,2024-10-17,600.0,10/18/24 14:49,REP,16651,Donald Trump,43.0,1.2999999999999972
+88760,RMG Research,2.3,-0.4,Online Opt-In Panel,5.0,Michigan,2024-10-10,2024-10-16,789.0,10/17/24 13:51,REP,16651,Donald Trump,49.0,1.2999999999999972
+88749,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-10-06,2024-10-15,1065.0,10/17/24 13:25,REP,16651,Donald Trump,47.0,1.2999999999999972
+88811,Washington Post/George Mason University,2.7,-0.8,Live Phone/Text-to-Web/Email/Mail-to-Web,9.0,Michigan,2024-09-30,2024-10-15,687.0,10/21/24 08:43,REP,16651,Donald Trump,47.0,1.2999999999999972
+88811,Washington Post/George Mason University,2.7,-0.8,Live Phone/Text-to-Web/Email/Mail-to-Web,9.0,Michigan,2024-09-30,2024-10-15,687.0,10/21/24 09:24,REP,16651,Donald Trump,47.0,1.2999999999999972
+88744,Mitchell,2.4,-0.2,,7.0,Michigan,2024-10-14,2024-10-14,589.0,10/17/24 09:45,REP,16651,Donald Trump,47.0,1.2999999999999972
+88744,Mitchell,2.4,-0.2,,7.0,Michigan,2024-10-14,2024-10-14,589.0,10/17/24 09:45,REP,16651,Donald Trump,48.5,1.2999999999999972
+88728,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-10-12,2024-10-14,682.0,10/16/24 12:21,REP,16651,Donald Trump,47.0,1.2999999999999972
+88689,SoCal Strategies,,,Online Opt-In Panel,9.0,Michigan,2024-10-11,2024-10-13,692.0,10/15/24 08:55,REP,16651,Donald Trump,48.0,1.2999999999999972
+88708,MRG (Marketing Resource Group),1.8,0.1,Live Phone,6.0,Michigan,2024-10-07,2024-10-11,600.0,10/15/24 19:39,REP,16651,Donald Trump,44.0,1.2999999999999972
+88924,Michigan State University/YouGov,2.5,-0.6,Online Matched Sample,3.0,Michigan,2024-09-23,2024-10-10,845.0,10/24/24 16:24,REP,16651,Donald Trump,47.6,1.2999999999999972
+88636,InsiderAdvantage,2.0,-0.3,Text,5.0,Michigan,2024-10-08,2024-10-09,800.0,10/10/24 19:55,REP,16651,Donald Trump,48.0,1.2999999999999972
+88626,Fabrizio/McLaughlin,,0.3,Live Phone/Text-to-Web,1.0,Michigan,2024-10-06,2024-10-09,800.0,10/10/24 14:36,REP,16651,Donald Trump,49.0,1.2999999999999972
+88656,ActiVote,,,App Panel,8.0,Michigan,2024-09-15,2024-10-09,400.0,10/11/24 10:25,REP,16651,Donald Trump,48.8,1.2999999999999972
+88608,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-10-05,2024-10-08,950.0,10/10/24 08:53,REP,16651,Donald Trump,49.6,1.2999999999999972
+88700,Fabrizio/Impact,1.7,-0.3,Live Phone/Text-to-Web,2.0,Michigan,2024-10-02,2024-10-08,600.0,10/15/24 11:00,REP,16651,Donald Trump,46.0,1.2999999999999972
+88700,Fabrizio/Impact,1.7,-0.3,Live Phone/Text-to-Web,2.0,Michigan,2024-10-02,2024-10-08,600.0,10/15/24 11:00,REP,16651,Donald Trump,49.0,1.2999999999999972
+88641,Fabrizio/GBAO,,,,6.0,Michigan,2024-09-28,2024-10-08,600.0,10/11/24 08:48,REP,16651,Donald Trump,45.0,1.2999999999999972
+88641,Fabrizio/GBAO,,,,6.0,Michigan,2024-09-28,2024-10-08,600.0,10/11/24 08:48,REP,16651,Donald Trump,47.0,1.2999999999999972
+88574,Research Co.,2.4,-0.5,Online Opt-In Panel,6.0,Michigan,2024-10-05,2024-10-07,450.0,10/8/24 14:28,REP,16651,Donald Trump,48.0,1.2999999999999972
+88591,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-10-03,2024-10-07,1007.0,10/9/24 14:04,REP,16651,Donald Trump,50.0,1.2999999999999972
+88591,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-10-03,2024-10-07,1007.0,10/9/24 14:04,REP,16651,Donald Trump,51.0,1.2999999999999972
+88545,Glengariff Group Inc.,1.5,-0.2,Live Phone,1.0,Michigan,2024-10-01,2024-10-04,600.0,10/7/24 19:26,REP,16651,Donald Trump,44.2,1.2999999999999972
+88533,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-09-27,2024-10-02,839.0,10/7/24 12:53,REP,16651,Donald Trump,46.0,1.2999999999999972
+88650,OnMessage Public Strategies,1.1,0.2,Live Phone,1.0,Michigan,2024-09-24,2024-10-02,500.0,10/11/24 10:25,REP,16651,Donald Trump,46.0,1.2999999999999972
+88504,Mitchell,2.4,-0.2,Text-to-Web,7.0,Michigan,2024-09-30,2024-09-30,709.0,10/3/24 14:03,REP,16651,Donald Trump,49.0,1.2999999999999972
+88504,Mitchell,2.4,-0.2,Text-to-Web,7.0,Michigan,2024-09-30,2024-09-30,709.0,10/3/24 14:03,REP,16651,Donald Trump,47.0,1.2999999999999972
+88484,Trafalgar Group,0.7,0.6,IVR/Live Phone/Text/Online Opt-In Panel/Email,4.0,Michigan,2024-09-28,2024-09-30,1086.0,10/2/24 12:56,REP,16651,Donald Trump,46.9,1.2999999999999972
+88596,Global Strategy Group/North Star Opinion Research,,,,3.5,Michigan,2024-09-23,2024-09-29,404.0,10/9/24 14:16,REP,16651,Donald Trump,48.0,1.2999999999999972
+88596,Global Strategy Group/North Star Opinion Research,,,,3.5,Michigan,2024-09-23,2024-09-29,404.0,10/9/24 14:16,REP,16651,Donald Trump,49.0,1.2999999999999972
+88440,RMG Research,2.3,-0.4,Online Opt-In Panel,5.0,Michigan,2024-09-24,2024-09-27,789.0,10/1/24 14:08,REP,16651,Donald Trump,47.0,1.2999999999999972
+88404,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-09-21,2024-09-26,688.0,9/28/24 10:30,REP,16651,Donald Trump,47.0,1.2999999999999972
+88404,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-09-21,2024-09-26,688.0,9/28/24 10:30,REP,16651,Donald Trump,46.0,1.2999999999999972
+88404,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-09-21,2024-09-26,688.0,9/28/24 10:30,REP,16651,Donald Trump,47.0,1.2999999999999972
+88404,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-09-21,2024-09-26,688.0,9/28/24 10:31,REP,16651,Donald Trump,46.0,1.2999999999999972
+88411,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-09-20,2024-09-25,918.0,9/29/24 13:12,REP,16651,Donald Trump,50.4,1.2999999999999972
+88411,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-09-20,2024-09-25,918.0,9/29/24 13:12,REP,16651,Donald Trump,50.6,1.2999999999999972
+88385,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-09-19,2024-09-25,894.0,9/26/24 20:25,REP,16651,Donald Trump,45.0,1.2999999999999972
+88385,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-09-19,2024-09-25,894.0,9/26/24 20:25,REP,16651,Donald Trump,47.0,1.2999999999999972
+88385,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-09-19,2024-09-25,800.0,9/26/24 20:25,REP,16651,Donald Trump,46.0,1.2999999999999972
+88385,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-09-19,2024-09-25,800.0,9/26/24 20:25,REP,16651,Donald Trump,47.0,1.2999999999999972
+88471,Benenson Strategy Group/GS Strategy Group,,,Online Opt-In Panel/Text-to-Web,0.0,Michigan,2024-09-19,2024-09-25,416.0,10/2/24 09:06,REP,16651,Donald Trump,46.0,1.2999999999999972
+88471,Benenson Strategy Group/GS Strategy Group,,,Online Opt-In Panel/Text-to-Web,0.0,Michigan,2024-09-19,2024-09-25,416.0,10/2/24 09:06,REP,16651,Donald Trump,48.0,1.2999999999999972
+88890,RG Strategies,,,Live Phone/Text-to-Web/Email,2.0,Michigan,2024-09-19,2024-09-23,400.0,10/23/24 13:56,REP,16651,Donald Trump,45.0,1.2999999999999972
+88441,Remington,2.6,-0.6,,7.0,Michigan,2024-09-16,2024-09-20,800.0,10/1/24 10:18,REP,16651,Donald Trump,47.0,1.2999999999999972
+88290,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-09-16,2024-09-19,993.0,9/23/24 13:10,REP,16651,Donald Trump,45.0,1.2999999999999972
+88371,University of Massachusetts Lowell/YouGov,2.9,-1.0,Online Matched Sample,9.0,Michigan,2024-09-11,2024-09-19,650.0,9/26/24 10:43,REP,16651,Donald Trump,43.0,1.2999999999999972
+88301,Suffolk,2.9,-1.0,Live Phone,8.0,Michigan,2024-09-16,2024-09-18,500.0,9/24/24 09:12,REP,16651,Donald Trump,45.4,1.2999999999999972
+88237,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-09-15,2024-09-18,875.0,9/19/24 09:21,REP,16651,Donald Trump,49.1,1.2999999999999972
+88251,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-09-09,2024-09-18,1297.0,9/19/24 19:55,REP,16651,Donald Trump,44.46,1.2999999999999972
+88234,Marist College,2.9,-0.9,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-09-12,2024-09-17,1282.0,9/19/24 09:21,REP,16651,Donald Trump,47.0,1.2999999999999972
+88234,Marist College,2.9,-0.9,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-09-12,2024-09-17,1138.0,9/19/24 09:21,REP,16651,Donald Trump,47.0,1.2999999999999972
+88212,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-09-12,2024-09-16,905.0,9/18/24 13:07,REP,16651,Donald Trump,45.0,1.2999999999999972
+88212,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-09-12,2024-09-16,905.0,9/18/24 13:07,REP,16651,Donald Trump,46.0,1.2999999999999972
+88344,Focaldata,,,,9.0,Michigan,2024-09-03,2024-09-16,1114.0,9/25/24 09:02,REP,16651,Donald Trump,48.0,1.2999999999999972
+88344,Focaldata,,,,9.0,Michigan,2024-09-03,2024-09-16,1114.0,9/25/24 09:02,REP,16651,Donald Trump,49.4,1.2999999999999972
+88344,Focaldata,,,,9.0,Michigan,2024-09-03,2024-09-16,1114.0,9/25/24 10:01,REP,16651,Donald Trump,46.7,1.2999999999999972
+88344,Focaldata,,,,9.0,Michigan,2024-09-03,2024-09-16,1114.0,9/25/24 10:01,REP,16651,Donald Trump,46.47,1.2999999999999972
+88143,InsiderAdvantage,2.0,-0.3,Text,5.0,Michigan,2024-09-11,2024-09-12,800.0,9/12/24 12:22,REP,16651,Donald Trump,48.6,1.2999999999999972
+88160,Mitchell,2.4,-0.2,IVR/Text-to-Web,7.0,Michigan,2024-09-11,2024-09-11,580.0,9/13/24 13:01,REP,16651,Donald Trump,48.0,1.2999999999999972
+88160,Mitchell,2.4,-0.2,IVR/Text-to-Web,7.0,Michigan,2024-09-11,2024-09-11,580.0,9/13/24 13:01,REP,16651,Donald Trump,46.0,1.2999999999999972
+88117,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-09-06,2024-09-09,556.0,9/10/24 13:17,REP,16651,Donald Trump,45.0,1.2999999999999972
+88088,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-08-30,2024-09-08,1368.0,9/9/24 20:30,REP,16651,Donald Trump,46.12,1.2999999999999972
+88125,co/efficient,1.1,0.3,IVR/Text,5.0,Michigan,2024-09-04,2024-09-06,931.0,9/10/24 15:39,REP,16651,Donald Trump,47.0,1.2999999999999972
+88070,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-09-03,2024-09-06,1077.0,9/8/24 13:36,REP,16651,Donald Trump,49.0,1.2999999999999972
+88045,Patriot Polling,1.1,0.6,IVR/Text,5.0,Michigan,2024-09-01,2024-09-03,822.0,9/5/24 20:34,REP,16651,Donald Trump,47.6,1.2999999999999972
+88150,Cygnal,2.1,-1.1,,4.0,Michigan,2024-08-28,2024-09-01,600.0,9/13/24 08:45,REP,16651,Donald Trump,46.0,1.2999999999999972
+87992,Trafalgar Group,0.7,0.6,IVR/Live Phone/Text/Online Opt-In Panel/Email,4.0,Michigan,2024-08-28,2024-08-30,1089.0,8/31/24 13:18,REP,16651,Donald Trump,47.0,1.2999999999999972
+88017,CNN/SSRS,2.8,-0.6,Probability Panel,10.0,Michigan,2024-08-23,2024-08-29,708.0,9/4/24 08:51,REP,16651,Donald Trump,43.0,1.2999999999999972
+88014,Glengariff Group Inc.,1.5,-0.2,Live Phone,1.0,Michigan,2024-08-26,2024-08-28,600.0,9/3/24 19:24,REP,16651,Donald Trump,44.7,1.2999999999999972
+87936,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-08-25,2024-08-28,800.0,8/29/24 09:39,REP,16651,Donald Trump,47.6,1.2999999999999972
+87975,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-08-25,2024-08-28,761.0,8/30/24 12:32,REP,16651,Donald Trump,44.0,1.2999999999999972
+87926,ActiVote,,,App Panel,8.0,Michigan,2024-07-28,2024-08-28,400.0,8/28/24 13:30,REP,16651,Donald Trump,49.9,1.2999999999999972
+87953,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-08-23,2024-08-26,702.0,8/29/24 20:14,REP,16651,Donald Trump,46.0,1.2999999999999972
+87953,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-08-23,2024-08-26,702.0,8/29/24 20:14,REP,16651,Donald Trump,46.0,1.2999999999999972
+87953,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-08-23,2024-08-26,651.0,8/29/24 20:14,REP,16651,Donald Trump,47.0,1.2999999999999972
+87953,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-08-23,2024-08-26,651.0,8/29/24 20:14,REP,16651,Donald Trump,47.0,1.2999999999999972
+87970,EPIC/MRA,1.9,-0.7,Live Phone,3.0,Michigan,2024-08-23,2024-08-26,600.0,8/30/24 12:02,REP,16651,Donald Trump,46.0,1.2999999999999972
+87970,EPIC/MRA,1.9,-0.7,Live Phone,3.0,Michigan,2024-08-23,2024-08-26,600.0,8/30/24 12:02,REP,16651,Donald Trump,47.0,1.2999999999999972
+88032,Z to A Research,,,Text-to-Web/Online Ad,3.5,Michigan,2024-08-23,2024-08-26,500.0,9/5/24 09:01,REP,16651,Donald Trump,47.0,1.2999999999999972
+88032,Z to A Research,,,Text-to-Web/Online Ad,3.5,Michigan,2024-08-23,2024-08-26,500.0,1/6/25 10:22,REP,16651,Donald Trump,47.0,1.2999999999999972
+88082,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-08-15,2024-08-23,500.0,9/9/24 16:59,REP,16651,Donald Trump,43.5,1.2999999999999972
+88082,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-08-15,2024-08-23,,9/9/24 16:59,REP,16651,Donald Trump,48.0,1.2999999999999972
+88082,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-08-15,2024-08-23,500.0,9/9/24 16:59,REP,16651,Donald Trump,41.5,1.2999999999999972
+88082,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-08-15,2024-08-23,,9/9/24 16:59,REP,16651,Donald Trump,46.0,1.2999999999999972
+87893,TIPP,1.8,-0.4,Online Opt-In Panel,3.0,Michigan,2024-08-20,2024-08-22,1001.0,8/25/24 13:18,REP,16651,Donald Trump,44.1,1.2999999999999972
+87893,TIPP,1.8,-0.4,Online Opt-In Panel,3.0,Michigan,2024-08-20,2024-08-22,741.0,8/25/24 13:18,REP,16651,Donald Trump,46.0,1.2999999999999972
+87893,TIPP,1.8,-0.4,Online Opt-In Panel,3.0,Michigan,2024-08-20,2024-08-22,1001.0,8/25/24 13:18,REP,16651,Donald Trump,41.9,1.2999999999999972
+87893,TIPP,1.8,-0.4,Online Opt-In Panel,3.0,Michigan,2024-08-20,2024-08-22,741.0,8/25/24 13:18,REP,16651,Donald Trump,44.8,1.2999999999999972
+87940,Fabrizio Ward,1.7,-0.1,Online Opt-In Panel/Text-to-Web,6.5,Michigan,2024-08-19,2024-08-21,400.0,8/29/24 09:40,REP,16651,Donald Trump,43.0,1.2999999999999972
+87940,Fabrizio Ward,1.7,-0.1,Online Opt-In Panel/Text-to-Web,6.5,Michigan,2024-08-19,2024-08-21,400.0,8/29/24 09:40,REP,16651,Donald Trump,48.0,1.2999999999999972
+87813,Focaldata,,,,3.0,Michigan,2024-08-06,2024-08-16,702.0,8/19/24 08:54,REP,16651,Donald Trump,46.9,1.2999999999999972
+87813,Focaldata,,,,3.0,Michigan,2024-08-06,2024-08-16,702.0,8/19/24 14:41,REP,16651,Donald Trump,42.0,1.2999999999999972
+87813,Focaldata,,,,3.0,Michigan,2024-08-06,2024-08-16,,8/19/24 14:41,REP,16651,Donald Trump,44.0,1.2999999999999972
+87813,Focaldata,,,,3.0,Michigan,2024-08-06,2024-08-16,702.0,8/19/24 14:42,REP,16651,Donald Trump,43.8,1.2999999999999972
+87824,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-08-12,2024-08-15,530.0,8/19/24 14:02,REP,16651,Donald Trump,45.0,1.2999999999999972
+87729,Bullfinch,,,Online Opt-In Panel,4.0,Michigan,2024-08-08,2024-08-11,500.0,8/12/24 14:12,REP,16651,Donald Trump,43.0,1.2999999999999972
+87729,Bullfinch,,,Online Opt-In Panel,4.0,Michigan,2024-08-08,2024-08-11,500.0,8/12/24 14:12,REP,16651,Donald Trump,40.0,1.2999999999999972
+87785,Fabrizio/Impact,1.7,-0.3,Live Phone/Text-to-Web,2.0,Michigan,2024-08-07,2024-08-11,600.0,8/15/24 13:01,REP,16651,Donald Trump,45.0,1.2999999999999972
+87785,Fabrizio/Impact,1.7,-0.3,Live Phone/Text-to-Web,2.0,Michigan,2024-08-07,2024-08-11,600.0,8/15/24 13:01,REP,16651,Donald Trump,48.0,1.2999999999999972
+87713,InsiderAdvantage,2.0,-0.3,,5.0,Michigan,2024-08-06,2024-08-08,800.0,8/9/24 20:20,REP,16651,Donald Trump,47.0,1.2999999999999972
+87719,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-08-05,2024-08-08,619.0,8/10/24 15:14,REP,16651,Donald Trump,48.0,1.2999999999999972
+87719,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-08-05,2024-08-08,619.0,8/10/24 15:16,REP,16651,Donald Trump,46.0,1.2999999999999972
+87719,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-08-05,2024-08-08,619.0,8/10/24 15:16,REP,16651,Donald Trump,43.0,1.2999999999999972
+87719,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-08-05,2024-08-08,619.0,8/10/24 15:16,REP,16651,Donald Trump,43.0,1.2999999999999972
+87849,Navigator,1.3,0.3,Text-to-Web,4.5,Michigan,2024-07-31,2024-08-08,600.0,8/20/24 15:24,REP,16651,Donald Trump,44.0,1.2999999999999972
+87849,Navigator,1.3,0.3,Text-to-Web,4.5,Michigan,2024-07-31,2024-08-08,600.0,8/20/24 15:24,REP,16651,Donald Trump,46.0,1.2999999999999972
+87685,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-07-31,2024-08-03,771.0,8/6/24 12:15,REP,16651,Donald Trump,42.0,1.2999999999999972
+87765,Benenson Strategy Group/GS Strategy Group,,,Online Opt-In Panel/Text-to-Web,0.0,Michigan,2024-07-26,2024-08-02,406.0,8/14/24 10:03,REP,16651,Donald Trump,44.0,1.2999999999999972
+87765,Benenson Strategy Group/GS Strategy Group,,,Online Opt-In Panel/Text-to-Web,0.0,Michigan,2024-07-26,2024-08-02,406.0,8/14/24 10:03,REP,16651,Donald Trump,46.0,1.2999999999999972
+87645,Public Opinion Strategies,1.6,0.3,Online Opt-In Panel/Text-to-Web,3.0,Michigan,2024-07-23,2024-07-29,400.0,8/1/24 09:25,REP,16651,Donald Trump,45.0,1.2999999999999972
+87623,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-07-24,2024-07-28,706.0,7/30/24 20:12,REP,16651,Donald Trump,39.0,1.2999999999999972
+87623,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-07-24,2024-07-28,706.0,7/30/24 20:12,REP,16651,Donald Trump,42.0,1.2999999999999972
+87577,SoCal Research,,,Online Ad,8.0,Michigan,2024-07-25,2024-07-26,500.0,7/26/24 16:26,REP,16651,Donald Trump,49.0,1.2999999999999972
+87569,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-07-22,2024-07-24,512.0,7/26/24 09:48,REP,16651,Donald Trump,44.0,1.2999999999999972
+87572,Glengariff Group Inc.,1.5,-0.2,Live Phone,1.0,Michigan,2024-07-22,2024-07-24,600.0,7/26/24 09:48,REP,16651,Donald Trump,41.3,1.2999999999999972
+87572,Glengariff Group Inc.,1.5,-0.2,Live Phone,1.0,Michigan,2024-07-22,2024-07-24,600.0,7/31/24 14:44,REP,16651,Donald Trump,42.8,1.2999999999999972
+87572,Glengariff Group Inc.,1.5,-0.2,Live Phone,1.0,Michigan,2024-07-22,2024-07-24,600.0,7/31/24 14:44,REP,16651,Donald Trump,40.3,1.2999999999999972
+87585,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,9.0,Michigan,2024-07-22,2024-07-24,1012.0,7/26/24 20:33,REP,16651,Donald Trump,45.0,1.2999999999999972
+87585,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,9.0,Michigan,2024-07-22,2024-07-24,1012.0,7/26/24 20:34,REP,16651,Donald Trump,49.0,1.2999999999999972
+87585,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,9.0,Michigan,2024-07-22,2024-07-24,1012.0,7/26/24 20:34,REP,16651,Donald Trump,46.0,1.2999999999999972
+87585,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,9.0,Michigan,2024-07-22,2024-07-24,1012.0,7/26/24 20:34,REP,16651,Donald Trump,48.0,1.2999999999999972
+87544,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-07-22,2024-07-23,800.0,7/25/24 09:06,REP,16651,Donald Trump,50.9,1.2999999999999972
+87544,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-07-22,2024-07-23,800.0,7/25/24 09:06,REP,16651,Donald Trump,44.1,1.2999999999999972
+87486,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-17,2024-07-18,650.0,7/18/24 20:18,REP,16651,Donald Trump,45.0,1.2999999999999972
+87486,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-17,2024-07-18,650.0,7/18/24 20:18,REP,16651,Donald Trump,49.0,1.2999999999999972
+87486,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-17,2024-07-18,650.0,7/18/24 20:18,REP,16651,Donald Trump,46.0,1.2999999999999972
+87486,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-17,2024-07-18,650.0,7/18/24 20:18,REP,16651,Donald Trump,45.0,1.2999999999999972
+87506,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-07-16,2024-07-18,437.0,7/21/24 11:06,REP,16651,Donald Trump,42.0,1.2999999999999972
+87489,Trafalgar Group,0.7,0.6,IVR/Live Phone/Text/Online Opt-In Panel/Email,4.0,Michigan,2024-07-15,2024-07-17,1091.0,7/19/24 09:49,REP,16651,Donald Trump,45.1,1.2999999999999972
+87500,EPIC/MRA,1.9,-0.7,,3.0,Michigan,2024-07-13,2024-07-17,600.0,7/21/24 11:06,REP,16651,Donald Trump,49.0,1.2999999999999972
+87500,EPIC/MRA,1.9,-0.7,,3.0,Michigan,2024-07-13,2024-07-17,600.0,7/21/24 11:06,REP,16651,Donald Trump,43.0,1.2999999999999972
+87455,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-07-15,2024-07-16,1000.0,7/18/24 09:41,REP,16651,Donald Trump,45.1,1.2999999999999972
+87455,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-07-15,2024-07-16,1000.0,7/18/24 09:42,REP,16651,Donald Trump,42.6,1.2999999999999972
+87494,Civiqs,2.4,-0.2,Online Opt-In Panel/Online Ad,8.0,Michigan,2024-07-13,2024-07-16,532.0,7/19/24 15:24,REP,16651,Donald Trump,46.0,1.2999999999999972
+87494,Civiqs,2.4,-0.2,Online Opt-In Panel/Online Ad,8.0,Michigan,2024-07-13,2024-07-16,532.0,7/19/24 15:24,REP,16651,Donald Trump,46.0,1.2999999999999972
+87399,MRG (Marketing Resource Group),1.8,0.1,,6.0,Michigan,2024-07-11,2024-07-13,600.0,7/15/24 10:06,REP,16651,Donald Trump,39.0,1.2999999999999972
+87513,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-11,2024-07-12,568.0,7/22/24 09:27,REP,16651,Donald Trump,47.0,1.2999999999999972
+87513,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-11,2024-07-12,568.0,7/22/24 09:27,REP,16651,Donald Trump,48.0,1.2999999999999972
+87513,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-11,2024-07-12,568.0,7/22/24 09:27,REP,16651,Donald Trump,45.0,1.2999999999999972
+87513,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-11,2024-07-12,568.0,7/22/24 09:27,REP,16651,Donald Trump,45.0,1.2999999999999972
+87513,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-11,2024-07-12,568.0,7/22/24 09:27,REP,16651,Donald Trump,48.0,1.2999999999999972
+87513,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-11,2024-07-12,568.0,7/22/24 09:27,REP,16651,Donald Trump,42.0,1.2999999999999972
+87513,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-11,2024-07-12,568.0,7/22/24 09:27,REP,16651,Donald Trump,45.0,1.2999999999999972
+87420,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-07-08,2024-07-10,465.0,7/15/24 20:31,REP,16651,Donald Trump,42.0,1.2999999999999972
+87603,Echelon Insights,2.7,-0.8,Online Opt-In Panel,9.0,Michigan,2024-07-01,2024-07-08,607.0,7/29/24 20:13,REP,16651,Donald Trump,48.0,1.2999999999999972
+87603,Echelon Insights,2.7,-0.8,Online Opt-In Panel,9.0,Michigan,2024-07-01,2024-07-08,607.0,7/29/24 20:13,REP,16651,Donald Trump,43.0,1.2999999999999972
+87318,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-07-01,2024-07-05,694.0,7/6/24 13:34,REP,16651,Donald Trump,39.0,1.2999999999999972
+87318,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-07-01,2024-07-05,694.0,7/6/24 13:34,REP,16651,Donald Trump,43.0,1.2999999999999972
+87337,Emerson,2.9,-1.1,,7.0,Michigan,2024-06-30,2024-07-02,1000.0,7/8/24 13:02,REP,16651,Donald Trump,45.0,1.2999999999999972
+87327,Remington,2.6,-0.6,,7.0,Michigan,2024-06-29,2024-07-01,584.0,7/8/24 11:32,REP,16651,Donald Trump,45.0,1.2999999999999972
+87342,1983 Labs,,,Online Opt-In Panel,1.0,Michigan,2024-06-28,2024-06-30,563.0,7/8/24 13:03,REP,16651,Donald Trump,45.0,1.2999999999999972
+87277,EPIC/MRA,1.9,-0.7,Live Phone,3.0,Michigan,2024-06-21,2024-06-26,600.0,6/29/24 18:46,REP,16651,Donald Trump,49.0,1.2999999999999972
+87277,EPIC/MRA,1.9,-0.7,Live Phone,3.0,Michigan,2024-06-21,2024-06-26,600.0,6/29/24 18:46,REP,16651,Donald Trump,42.0,1.2999999999999972
+87258,P2 Insights,1.1,0.1,Live Phone/Text-to-Web,1.0,Michigan,2024-06-11,2024-06-20,650.0,6/27/24 11:15,REP,16651,Donald Trump,43.0,1.2999999999999972
+87209,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-06-13,2024-06-18,1000.0,6/20/24 13:12,REP,16651,Donald Trump,50.7,1.2999999999999972
+87209,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-06-13,2024-06-18,1000.0,6/20/24 13:13,REP,16651,Donald Trump,44.0,1.2999999999999972
+87179,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-06-08,2024-06-11,594.0,6/17/24 10:36,REP,16651,Donald Trump,37.0,1.2999999999999972
+87110,Mitchell,2.4,-0.2,Text-to-Web,6.0,Michigan,2024-06-03,2024-06-03,710.0,6/5/24 14:04,REP,16651,Donald Trump,48.2,1.2999999999999972
+87110,Mitchell,2.4,-0.2,Text-to-Web,6.0,Michigan,2024-06-03,2024-06-03,710.0,6/5/24 14:04,REP,16651,Donald Trump,46.3,1.2999999999999972
+87097,Florida Atlantic University/Mainstreet Research,,,IVR/Online Opt-In Panel,6.0,Michigan,2024-05-30,2024-05-31,722.0,6/4/24 13:26,REP,16651,Donald Trump,45.0,1.2999999999999972
+87097,Florida Atlantic University/Mainstreet Research,,,IVR/Online Opt-In Panel,6.0,Michigan,2024-05-30,2024-05-31,636.0,6/4/24 13:26,REP,16651,Donald Trump,46.0,1.2999999999999972
+87097,Florida Atlantic University/Mainstreet Research,,,IVR/Online Opt-In Panel,6.0,Michigan,2024-05-30,2024-05-31,722.0,6/4/24 13:26,REP,16651,Donald Trump,39.0,1.2999999999999972
+87097,Florida Atlantic University/Mainstreet Research,,,IVR/Online Opt-In Panel,6.0,Michigan,2024-05-30,2024-05-31,636.0,6/4/24 13:26,REP,16651,Donald Trump,43.0,1.2999999999999972
+87048,Mitchell,2.4,-0.2,Text-to-Web,6.0,Michigan,2024-05-20,2024-05-21,697.0,5/28/24 20:41,REP,16651,Donald Trump,49.0,1.2999999999999972
+87048,Mitchell,2.4,-0.2,Text-to-Web,6.0,Michigan,2024-05-20,2024-05-21,697.0,5/28/24 20:41,REP,16651,Donald Trump,46.0,1.2999999999999972
+87263,P2 Insights,1.1,0.1,Live Phone/Text-to-Web,1.0,Michigan,2024-05-13,2024-05-21,650.0,6/27/24 15:02,REP,16651,Donald Trump,45.0,1.2999999999999972
+87426,KAConsulting LLC,1.5,-0.1,Live Phone/Online Opt-In Panel,3.5,Michigan,2024-05-15,2024-05-19,600.0,7/16/24 09:34,REP,16651,Donald Trump,45.0,1.2999999999999972
+87426,KAConsulting LLC,1.5,-0.1,Live Phone/Online Opt-In Panel,3.5,Michigan,2024-05-15,2024-05-19,600.0,7/16/24 09:34,REP,16651,Donald Trump,42.0,1.2999999999999972
+87006,Prime Group,,,Online Opt-In Panel,1.0,Michigan,2024-05-09,2024-05-16,482.0,5/22/24 15:07,REP,16651,Donald Trump,48.0,1.2999999999999972
+87006,Prime Group,,,Online Opt-In Panel,1.0,Michigan,2024-05-09,2024-05-16,482.0,5/22/24 15:07,REP,16651,Donald Trump,42.0,1.2999999999999972
+87017,Benenson Strategy Group/GS Strategy Group,,,Online Opt-In Panel/Text-to-Web,0.0,Michigan,2024-05-06,2024-05-13,606.0,5/23/24 09:34,REP,16651,Donald Trump,43.0,1.2999999999999972
+87017,Benenson Strategy Group/GS Strategy Group,,,Online Opt-In Panel/Text-to-Web,0.0,Michigan,2024-05-06,2024-05-13,606.0,5/23/24 09:35,REP,16651,Donald Trump,47.0,1.2999999999999972
+86990,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-05-08,2024-05-12,704.0,5/22/24 11:20,REP,16651,Donald Trump,40.0,1.2999999999999972
+86990,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-05-08,2024-05-12,704.0,5/22/24 11:20,REP,16651,Donald Trump,45.0,1.2999999999999972
+86990,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-05-08,2024-05-12,704.0,5/22/24 11:21,REP,16651,Donald Trump,47.0,1.2999999999999972
+86899,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-04-28,2024-05-09,616.0,5/13/24 10:12,REP,16651,Donald Trump,38.0,1.2999999999999972
+86899,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-04-28,2024-05-09,616.0,5/13/24 10:12,REP,16651,Donald Trump,49.0,1.2999999999999972
+86899,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-04-28,2024-05-09,616.0,5/13/24 10:13,REP,16651,Donald Trump,39.0,1.2999999999999972
+86899,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-04-28,2024-05-09,616.0,5/13/24 10:13,REP,16651,Donald Trump,46.0,1.2999999999999972
+86906,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-05-02,2024-05-04,522.0,5/13/24 10:48,REP,16651,Donald Trump,43.0,1.2999999999999972
+86750,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-04-25,2024-04-29,1000.0,4/30/24 09:15,REP,16651,Donald Trump,52.1,1.2999999999999972
+86750,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-04-25,2024-04-29,1000.0,4/30/24 09:15,REP,16651,Donald Trump,43.2,1.2999999999999972
+86740,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-04-19,2024-04-25,1262.0,4/28/24 11:53,REP,16651,Donald Trump,49.0,1.2999999999999972
+86740,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-04-19,2024-04-25,1262.0,4/28/24 11:53,REP,16651,Donald Trump,43.0,1.2999999999999972
+86733,Kaplan Strategies,2.0,-0.9,Online Opt-In Panel/Text-to-Web,4.5,Michigan,2024-04-20,2024-04-21,804.0,4/26/24 09:30,REP,16651,Donald Trump,51.0,1.2999999999999972
+86800,John Zogby Strategies,1.8,0.0,Online Opt-In Panel,5.0,Michigan,2024-04-13,2024-04-21,640.0,5/1/24 18:29,REP,16651,Donald Trump,41.1,1.2999999999999972
+86689,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,6.0,Michigan,2024-04-11,2024-04-16,1126.0,4/18/24 20:54,REP,16651,Donald Trump,42.0,1.2999999999999972
+86689,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,6.0,Michigan,2024-04-11,2024-04-16,1126.0,4/18/24 20:54,REP,16651,Donald Trump,49.0,1.2999999999999972
+86720,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-04-08,2024-04-15,708.0,4/24/24 11:10,REP,16651,Donald Trump,40.0,1.2999999999999972
+86720,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-04-08,2024-04-15,708.0,4/24/24 11:10,REP,16651,Donald Trump,45.0,1.2999999999999972
+86675,MRG (Marketing Resource Group),1.8,0.1,Live Phone,6.0,Michigan,2024-04-08,2024-04-11,600.0,4/17/24 12:25,REP,16651,Donald Trump,42.0,1.2999999999999972
+86675,MRG (Marketing Resource Group),1.8,0.1,Live Phone,6.0,Michigan,2024-04-08,2024-04-11,600.0,4/17/24 12:25,REP,16651,Donald Trump,37.0,1.2999999999999972
+86920,Big Data Poll,1.1,0.2,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-26,2024-03-30,1218.0,5/14/24 09:14,REP,16651,Donald Trump,44.9,1.2999999999999972
+86920,Big Data Poll,1.1,0.2,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-26,2024-03-30,1145.0,5/14/24 09:14,REP,16651,Donald Trump,45.5,1.2999999999999972
+86920,Big Data Poll,1.1,0.2,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-26,2024-03-30,1218.0,5/14/24 09:14,REP,16651,Donald Trump,44.5,1.2999999999999972
+86920,Big Data Poll,1.1,0.2,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-26,2024-03-30,1145.0,5/14/24 09:14,REP,16651,Donald Trump,44.9,1.2999999999999972
+86920,Big Data Poll,1.1,0.2,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-26,2024-03-30,1218.0,5/14/24 09:15,REP,16651,Donald Trump,43.9,1.2999999999999972
+86920,Big Data Poll,1.1,0.2,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-26,2024-03-30,1145.0,5/14/24 09:15,REP,16651,Donald Trump,44.3,1.2999999999999972
+86920,Big Data Poll,1.1,0.2,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-26,2024-03-30,1218.0,5/14/24 09:15,REP,16651,Donald Trump,51.5,1.2999999999999972
+86920,Big Data Poll,1.1,0.2,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-26,2024-03-30,1145.0,5/14/24 09:15,REP,16651,Donald Trump,51.5,1.2999999999999972
+86603,Spry Strategies,1.5,0.2,IVR/Text-to-Web,4.0,Michigan,2024-03-25,2024-03-28,709.0,4/4/24 09:33,REP,16651,Donald Trump,48.0,1.2999999999999972
+86603,Spry Strategies,1.5,0.2,IVR/Text-to-Web,4.0,Michigan,2024-03-25,2024-03-28,709.0,4/4/24 09:33,REP,16651,Donald Trump,43.0,1.2999999999999972
+86584,Fabrizio/GBAO,,,Live Phone/Text-to-Web,6.0,Michigan,2024-03-17,2024-03-24,600.0,4/2/24 22:05,REP,16651,Donald Trump,39.0,1.2999999999999972
+86584,Fabrizio/GBAO,,,Live Phone/Text-to-Web,6.0,Michigan,2024-03-17,2024-03-24,600.0,4/2/24 22:05,REP,16651,Donald Trump,45.0,1.2999999999999972
+86584,Fabrizio/GBAO,,,Live Phone/Text-to-Web,6.0,Michigan,2024-03-17,2024-03-24,600.0,4/2/24 22:05,REP,16651,Donald Trump,48.0,1.2999999999999972
+87462,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-16,2024-03-20,1000.0,7/18/24 09:42,REP,16651,Donald Trump,45.5,1.2999999999999972
+86662,Echelon Insights,2.7,-0.8,Live Phone/Text-to-Web,9.0,Michigan,2024-03-12,2024-03-19,400.0,4/15/24 11:08,REP,16651,Donald Trump,51.0,1.2999999999999972
+86502,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Email,7.0,Michigan,2024-03-14,2024-03-18,1000.0,3/21/24 09:22,REP,16651,Donald Trump,50.3,1.2999999999999972
+86502,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Email,7.0,Michigan,2024-03-14,2024-03-18,1000.0,3/21/24 09:22,REP,16651,Donald Trump,43.2,1.2999999999999972
+86502,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Email,7.0,Michigan,2024-03-14,2024-03-18,1000.0,3/21/24 09:23,REP,16651,Donald Trump,44.6,1.2999999999999972
+86509,CNN/SSRS,2.8,-0.6,Live Phone/Probability Panel,10.0,Michigan,2024-03-13,2024-03-18,1097.0,3/22/24 10:01,REP,16651,Donald Trump,50.0,1.2999999999999972
+86509,CNN/SSRS,2.8,-0.6,Live Phone/Probability Panel,10.0,Michigan,2024-03-13,2024-03-18,1097.0,3/22/24 10:01,REP,16651,Donald Trump,40.0,1.2999999999999972
+86531,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-03-14,2024-03-17,616.0,3/25/24 12:43,REP,16651,Donald Trump,41.0,1.2999999999999972
+86511,Mitchell,2.4,-0.2,Text-to-Web,6.0,Michigan,2024-03-15,2024-03-16,627.0,3/24/24 13:06,REP,16651,Donald Trump,47.0,1.2999999999999972
+86511,Mitchell,2.4,-0.2,Text-to-Web,6.0,Michigan,2024-03-15,2024-03-16,627.0,3/24/24 13:06,REP,16651,Donald Trump,44.0,1.2999999999999972
+86472,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-03-08,2024-03-12,1487.0,3/14/24 14:41,REP,16651,Donald Trump,48.0,1.2999999999999972
+86472,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-03-08,2024-03-12,1487.0,3/14/24 14:41,REP,16651,Donald Trump,41.0,1.2999999999999972
+86547,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-03-08,2024-03-12,698.0,3/26/24 11:26,REP,16651,Donald Trump,40.0,1.2999999999999972
+86547,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-03-08,2024-03-12,698.0,3/26/24 11:26,REP,16651,Donald Trump,45.0,1.2999999999999972
+86192,North Star Opinion Research,1.1,0.3,Live Phone/Text-to-Web,3.0,Michigan,2024-02-22,2024-02-25,600.0,2/26/24 16:46,REP,16651,Donald Trump,43.0,1.2999999999999972
+86181,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web/Email,7.0,Michigan,2024-02-20,2024-02-24,1000.0,2/26/24 07:25,REP,16651,Donald Trump,46.0,1.2999999999999972
+86181,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web/Email,7.0,Michigan,2024-02-20,2024-02-24,1000.0,2/26/24 07:25,REP,16651,Donald Trump,42.4,1.2999999999999972
+86193,Kaplan Strategies,2.0,-0.9,,4.5,Michigan,2024-02-22,2024-02-23,1019.0,2/26/24 16:46,REP,16651,Donald Trump,46.0,1.2999999999999972
+86140,EPIC/MRA,1.9,-0.7,Live Phone,3.0,Michigan,2024-02-13,2024-02-18,600.0,2/21/24 09:52,REP,16651,Donald Trump,45.0,1.2999999999999972
+86232,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-02-12,2024-02-18,702.0,2/29/24 09:44,REP,16651,Donald Trump,41.0,1.2999999999999972
+86232,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-02-12,2024-02-18,702.0,2/29/24 09:44,REP,16651,Donald Trump,46.0,1.2999999999999972
+85960,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,6.0,Michigan,2024-02-08,2024-02-12,1106.0,2/14/24 21:20,REP,16651,Donald Trump,47.0,1.2999999999999972
+85960,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,6.0,Michigan,2024-02-08,2024-02-12,1106.0,2/14/24 21:21,REP,16651,Donald Trump,42.0,1.2999999999999972
+86245,Focaldata,,,Online Opt-In Panel,3.0,Michigan,2024-01-17,2024-01-23,933.0,3/1/24 14:14,REP,16651,Donald Trump,43.0,1.2999999999999972
+86245,Focaldata,,,Online Opt-In Panel,3.0,Michigan,2024-01-17,2024-01-23,,3/1/24 14:14,REP,16651,Donald Trump,49.4,1.2999999999999972
+85767,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-01-16,2024-01-21,703.0,1/31/24 10:44,REP,16651,Donald Trump,43.0,1.2999999999999972
+85767,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-01-16,2024-01-21,703.0,1/31/24 10:44,REP,16651,Donald Trump,47.0,1.2999999999999972
+85602,Target Insyght,1.0,0.3,,1.0,Michigan,2024-01-04,2024-01-10,800.0,1/12/24 17:15,REP,16651,Donald Trump,41.0,1.2999999999999972
+85576,Glengariff Group Inc.,1.5,-0.2,,1.0,Michigan,2024-01-02,2024-01-06,600.0,1/9/24 17:10,REP,16651,Donald Trump,47.0,1.2999999999999972
+85576,Glengariff Group Inc.,1.5,-0.2,,1.0,Michigan,2024-01-02,2024-01-06,600.0,1/9/24 17:11,REP,16651,Donald Trump,41.0,1.2999999999999972
+85576,Glengariff Group Inc.,1.5,-0.2,,1.0,Michigan,2024-01-02,2024-01-06,600.0,1/9/24 17:11,REP,16651,Donald Trump,45.0,1.2999999999999972
+85576,Glengariff Group Inc.,1.5,-0.2,,1.0,Michigan,2024-01-02,2024-01-06,600.0,1/9/24 17:11,REP,16651,Donald Trump,45.0,1.2999999999999972
+85543,John Zogby Strategies,1.8,0.0,Online Opt-In Panel,5.0,Michigan,2024-01-02,2024-01-04,602.0,1/7/24 13:15,REP,16651,Donald Trump,47.0,1.2999999999999972
+85549,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2023-12-28,2023-12-30,832.0,1/8/24 11:07,REP,16651,Donald Trump,39.0,1.2999999999999972
+84962,CNN/SSRS,2.8,-0.6,Live Phone/Text-to-Web/Email/Mail-to-Web,10.0,Michigan,2023-11-29,2023-12-06,1197.0,12/11/23 10:11,REP,16651,Donald Trump,50.0,1.2999999999999972
+84962,CNN/SSRS,2.8,-0.6,Live Phone/Text-to-Web/Email/Mail-to-Web,10.0,Michigan,2023-11-29,2023-12-06,1197.0,12/11/23 10:11,REP,16651,Donald Trump,39.0,1.2999999999999972
+85340,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2023-11-27,2023-12-06,703.0,12/14/23 09:46,REP,16651,Donald Trump,39.0,1.2999999999999972
+85340,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2023-11-27,2023-12-06,703.0,12/14/23 09:46,REP,16651,Donald Trump,46.0,1.2999999999999972
+84865,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2023-11-27,2023-11-29,874.0,12/5/23 12:20,REP,16651,Donald Trump,39.0,1.2999999999999972
+86926,Big Data Poll,1.1,0.2,Online Opt-In Panel/Text-to-Web/Text,7.0,Michigan,2023-11-16,2023-11-19,1273.0,5/14/24 09:17,REP,16651,Donald Trump,40.7,1.2999999999999972
+86926,Big Data Poll,1.1,0.2,Online Opt-In Panel/Text-to-Web/Text,7.0,Michigan,2023-11-16,2023-11-19,1200.0,5/14/24 09:17,REP,16651,Donald Trump,42.1,1.2999999999999972
+86926,Big Data Poll,1.1,0.2,Online Opt-In Panel/Text-to-Web/Text,7.0,Michigan,2023-11-16,2023-11-19,1273.0,5/14/24 09:17,REP,16651,Donald Trump,39.9,1.2999999999999972
+86926,Big Data Poll,1.1,0.2,Online Opt-In Panel/Text-to-Web/Text,7.0,Michigan,2023-11-16,2023-11-19,1200.0,5/14/24 09:17,REP,16651,Donald Trump,41.4,1.2999999999999972
+86926,Big Data Poll,1.1,0.2,Online Opt-In Panel/Text-to-Web/Text,7.0,Michigan,2023-11-16,2023-11-19,1273.0,5/14/24 09:17,REP,16651,Donald Trump,39.2,1.2999999999999972
+86926,Big Data Poll,1.1,0.2,Online Opt-In Panel/Text-to-Web/Text,7.0,Michigan,2023-11-16,2023-11-19,1200.0,5/14/24 09:17,REP,16651,Donald Trump,40.6,1.2999999999999972
+84709,EPIC/MRA,1.9,-0.7,Live Phone,3.0,Michigan,2023-11-10,2023-11-16,600.0,11/18/23 10:33,REP,16651,Donald Trump,46.0,1.2999999999999972
+84652,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2023-10-30,2023-11-07,700.0,11/10/23 09:24,REP,16651,Donald Trump,43.0,1.2999999999999972
+84652,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2023-10-30,2023-11-07,700.0,11/10/23 09:24,REP,16651,Donald Trump,37.0,1.2999999999999972
+84619,Emerson,2.9,-1.1,IVR/Online Opt-In Panel,7.0,Michigan,2023-10-30,2023-11-04,1000.0,11/9/23 09:38,REP,16651,Donald Trump,41.0,1.2999999999999972
+84619,Emerson,2.9,-1.1,IVR/Online Opt-In Panel,7.0,Michigan,2023-10-30,2023-11-04,788.0,11/9/23 09:38,REP,16651,Donald Trump,43.0,1.2999999999999972
+84544,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2023-10-22,2023-11-03,616.0,11/5/23 10:59,REP,16651,Donald Trump,48.0,1.2999999999999972
+84544,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2023-10-22,2023-11-03,616.0,11/5/23 10:59,REP,16651,Donald Trump,46.0,1.2999999999999972
+84544,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2023-10-22,2023-11-03,616.0,11/5/23 10:59,REP,16651,Donald Trump,47.0,1.2999999999999972
+84544,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2023-10-22,2023-11-03,616.0,11/5/23 10:59,REP,16651,Donald Trump,46.0,1.2999999999999972
+84544,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2023-10-22,2023-11-03,616.0,11/7/23 09:05,REP,16651,Donald Trump,34.0,1.2999999999999972
+84544,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2023-10-22,2023-11-03,616.0,11/7/23 09:05,REP,16651,Donald Trump,34.0,1.2999999999999972
+84452,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2023-10-05,2023-10-10,706.0,10/19/23 09:38,REP,16651,Donald Trump,44.0,1.2999999999999972
+84413,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2023-10-07,2023-10-09,820.0,10/15/23 14:15,REP,16651,Donald Trump,41.0,1.2999999999999972
+84413,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2023-10-07,2023-10-09,820.0,10/15/23 14:16,REP,16651,Donald Trump,40.0,1.2999999999999972
+84369,MRG (Marketing Resource Group),1.8,0.1,Live Phone,6.0,Michigan,2023-10-02,2023-10-08,600.0,10/11/23 10:15,REP,16651,Donald Trump,41.6,1.2999999999999972
+84369,MRG (Marketing Resource Group),1.8,0.1,Live Phone,6.0,Michigan,2023-10-02,2023-10-08,600.0,10/11/23 10:15,REP,16651,Donald Trump,40.4,1.2999999999999972
+89375,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-11-03,2024-11-04,1113.0,11/4/24 19:24,GRE,31116,Jill Stein,2.0,0.0
+89246,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-11-01,2024-11-02,1198.0,11/2/24 20:35,GRE,31116,Jill Stein,1.7,0.0
+89274,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-10-29,2024-11-02,998.0,11/3/24 09:22,GRE,31116,Jill Stein,2.0,0.0
+89274,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-10-29,2024-11-02,998.0,11/3/24 09:22,GRE,31116,Jill Stein,2.0,0.0
+89312,Mitchell,2.4,-0.2,Text-to-Web,7.0,Michigan,2024-10-29,2024-11-02,585.0,11/3/24 21:48,GRE,31116,Jill Stein,1.0,0.0
+89355,Focaldata,,,Online Opt-In Panel,9.0,Michigan,2024-10-03,2024-11-01,2092.0,11/4/24 14:40,GRE,31116,Jill Stein,1.0,0.0
+89355,Focaldata,,,Online Opt-In Panel,9.0,Michigan,2024-10-03,2024-11-01,1941.0,11/4/24 14:40,GRE,31116,Jill Stein,1.0,0.0
+89355,Focaldata,,,Online Opt-In Panel,9.0,Michigan,2024-10-03,2024-11-01,2092.0,11/4/24 14:40,GRE,31116,Jill Stein,1.0,0.0
+89145,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-10-30,2024-10-31,1136.0,10/31/24 15:46,GRE,31116,Jill Stein,1.7,0.0
+89190,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-10-28,2024-10-31,1731.0,11/1/24 14:24,GRE,31116,Jill Stein,1.0,0.0
+89201,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-10-25,2024-10-31,985.0,11/1/24 16:15,GRE,31116,Jill Stein,2.0,0.0
+89201,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-10-25,2024-10-31,942.0,11/1/24 16:15,GRE,31116,Jill Stein,2.0,0.0
+89138,Echelon Insights,2.7,-0.8,Live Phone/Text-to-Web,9.0,Michigan,2024-10-27,2024-10-30,600.0,10/31/24 15:07,GRE,31116,Jill Stein,0.0,0.0
+89059,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-10-25,2024-10-29,983.0,10/29/24 16:37,GRE,31116,Jill Stein,1.8,0.0
+89110,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,9.0,Michigan,2024-10-24,2024-10-28,988.0,10/30/24 19:33,GRE,31116,Jill Stein,0.0,0.0
+89110,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,9.0,Michigan,2024-10-24,2024-10-28,1275.0,10/30/24 19:33,GRE,31116,Jill Stein,0.0,0.0
+89163,EPIC/MRA,1.9,-0.7,Live Phone,3.0,Michigan,2024-10-24,2024-10-28,600.0,11/1/24 09:05,GRE,31116,Jill Stein,3.0,0.0
+89099,CNN/SSRS,2.8,-0.6,Live Phone/Text-to-Web/Email/Mail-to-Web/Mail-to-Phone,10.0,Michigan,2024-10-23,2024-10-28,726.0,10/30/24 13:06,GRE,31116,Jill Stein,2.0,0.0
+89032,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-10-25,2024-10-27,728.0,10/29/24 13:25,GRE,31116,Jill Stein,1.0,0.0
+89082,Suffolk,2.9,-1.0,Live Phone,8.0,Michigan,2024-10-24,2024-10-27,500.0,10/30/24 09:31,GRE,31116,Jill Stein,1.4,0.0
+88994,Glengariff Group Inc.,1.5,-0.2,Live Phone,1.0,Michigan,2024-10-22,2024-10-24,600.0,10/28/24 18:55,GRE,31116,Jill Stein,1.6,0.0
+89116,University of Massachusetts Lowell/YouGov,2.9,-1.0,Online Matched Sample,9.0,Michigan,2024-10-16,2024-10-24,600.0,10/31/24 08:55,GRE,31116,Jill Stein,0.0,0.0
+88945,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-10-20,2024-10-22,1115.0,10/25/24 12:30,GRE,31116,Jill Stein,1.0,0.0
+88893,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-10-17,2024-10-21,1136.0,10/23/24 14:04,GRE,31116,Jill Stein,1.0,0.0
+88901,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-10-16,2024-10-20,756.0,10/23/24 19:17,GRE,31116,Jill Stein,1.0,0.0
+88901,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-10-16,2024-10-20,705.0,10/23/24 19:17,GRE,31116,Jill Stein,1.0,0.0
+88830,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-10-16,2024-10-18,1008.0,10/21/24 13:07,GRE,31116,Jill Stein,0.0,0.0
+88797,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-10-12,2024-10-17,1529.0,10/20/24 13:11,GRE,31116,Jill Stein,1.1,0.0
+88744,Mitchell,2.4,-0.2,,7.0,Michigan,2024-10-14,2024-10-14,589.0,10/17/24 09:45,GRE,31116,Jill Stein,1.0,0.0
+88728,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-10-12,2024-10-14,682.0,10/16/24 12:21,GRE,31116,Jill Stein,0.0,0.0
+88708,MRG (Marketing Resource Group),1.8,0.1,Live Phone,6.0,Michigan,2024-10-07,2024-10-11,600.0,10/15/24 19:39,GRE,31116,Jill Stein,2.1,0.0
+88700,Fabrizio/Impact,1.7,-0.3,Live Phone/Text-to-Web,2.0,Michigan,2024-10-02,2024-10-08,600.0,10/15/24 11:00,GRE,31116,Jill Stein,1.0,0.0
+88641,Fabrizio/GBAO,,,,6.0,Michigan,2024-09-28,2024-10-08,600.0,10/11/24 08:48,GRE,31116,Jill Stein,1.0,0.0
+88591,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-10-03,2024-10-07,1007.0,10/9/24 14:04,GRE,31116,Jill Stein,0.0,0.0
+88545,Glengariff Group Inc.,1.5,-0.2,Live Phone,1.0,Michigan,2024-10-01,2024-10-04,600.0,10/7/24 19:26,GRE,31116,Jill Stein,1.2,0.0
+88533,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-09-27,2024-10-02,839.0,10/7/24 12:53,GRE,31116,Jill Stein,0.0,0.0
+88504,Mitchell,2.4,-0.2,Text-to-Web,7.0,Michigan,2024-09-30,2024-09-30,709.0,10/3/24 14:03,GRE,31116,Jill Stein,1.0,0.0
+88596,Global Strategy Group/North Star Opinion Research,,,,3.5,Michigan,2024-09-23,2024-09-29,404.0,10/9/24 14:16,GRE,31116,Jill Stein,0.0,0.0
+88404,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-09-21,2024-09-26,688.0,9/28/24 10:30,GRE,31116,Jill Stein,2.0,0.0
+88404,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-09-21,2024-09-26,688.0,9/28/24 10:31,GRE,31116,Jill Stein,2.0,0.0
+88411,AtlasIntel,2.7,-0.8,Online Ad,6.0,Michigan,2024-09-20,2024-09-25,918.0,9/29/24 13:12,GRE,31116,Jill Stein,1.5,0.0
+88385,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-09-19,2024-09-25,894.0,9/26/24 20:25,GRE,31116,Jill Stein,1.0,0.0
+88385,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-09-19,2024-09-25,800.0,9/26/24 20:25,GRE,31116,Jill Stein,1.0,0.0
+88471,Benenson Strategy Group/GS Strategy Group,,,Online Opt-In Panel/Text-to-Web,0.0,Michigan,2024-09-19,2024-09-25,416.0,10/2/24 09:06,GRE,31116,Jill Stein,2.0,0.0
+88441,Remington,2.6,-0.6,,7.0,Michigan,2024-09-16,2024-09-20,800.0,10/1/24 10:18,GRE,31116,Jill Stein,1.0,0.0
+88290,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-09-16,2024-09-19,993.0,9/23/24 13:10,GRE,31116,Jill Stein,0.0,0.0
+88371,University of Massachusetts Lowell/YouGov,2.9,-1.0,Online Matched Sample,9.0,Michigan,2024-09-11,2024-09-19,650.0,9/26/24 10:43,GRE,31116,Jill Stein,2.0,0.0
+88301,Suffolk,2.9,-1.0,Live Phone,8.0,Michigan,2024-09-16,2024-09-18,500.0,9/24/24 09:12,GRE,31116,Jill Stein,0.2,0.0
+88212,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-09-12,2024-09-16,905.0,9/18/24 13:07,GRE,31116,Jill Stein,2.0,0.0
+88344,Focaldata,,,,9.0,Michigan,2024-09-03,2024-09-16,1114.0,9/25/24 09:02,GRE,31116,Jill Stein,0.8,0.0
+88344,Focaldata,,,,9.0,Michigan,2024-09-03,2024-09-16,1114.0,9/25/24 10:01,GRE,31116,Jill Stein,0.9,0.0
+88344,Focaldata,,,,9.0,Michigan,2024-09-03,2024-09-16,1114.0,9/25/24 10:01,GRE,31116,Jill Stein,0.8,0.0
+88160,Mitchell,2.4,-0.2,IVR/Text-to-Web,7.0,Michigan,2024-09-11,2024-09-11,580.0,9/13/24 13:01,GRE,31116,Jill Stein,1.0,0.0
+88117,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-09-06,2024-09-09,556.0,9/10/24 13:17,GRE,31116,Jill Stein,1.0,0.0
+88017,CNN/SSRS,2.8,-0.6,Probability Panel,10.0,Michigan,2024-08-23,2024-08-29,708.0,9/4/24 08:51,GRE,31116,Jill Stein,0.0,0.0
+88014,Glengariff Group Inc.,1.5,-0.2,Live Phone,1.0,Michigan,2024-08-26,2024-08-28,600.0,9/3/24 19:24,GRE,31116,Jill Stein,1.3,0.0
+87975,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-08-25,2024-08-28,761.0,8/30/24 12:32,GRE,31116,Jill Stein,1.0,0.0
+87953,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-08-23,2024-08-26,702.0,8/29/24 20:14,GRE,31116,Jill Stein,1.0,0.0
+87953,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-08-23,2024-08-26,651.0,8/29/24 20:14,GRE,31116,Jill Stein,0.0,0.0
+87970,EPIC/MRA,1.9,-0.7,Live Phone,3.0,Michigan,2024-08-23,2024-08-26,600.0,8/30/24 12:02,GRE,31116,Jill Stein,1.0,0.0
+88032,Z to A Research,,,Text-to-Web/Online Ad,3.5,Michigan,2024-08-23,2024-08-26,500.0,9/5/24 09:01,GRE,31116,Jill Stein,1.0,0.0
+88032,Z to A Research,,,Text-to-Web/Online Ad,3.5,Michigan,2024-08-23,2024-08-26,500.0,1/6/25 10:22,GRE,31116,Jill Stein,2.0,0.0
+88082,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-08-15,2024-08-23,500.0,9/9/24 16:59,GRE,31116,Jill Stein,0.0,0.0
+88082,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-08-15,2024-08-23,,9/9/24 16:59,GRE,31116,Jill Stein,0.0,0.0
+87893,TIPP,1.8,-0.4,Online Opt-In Panel,3.0,Michigan,2024-08-20,2024-08-22,1001.0,8/25/24 13:18,GRE,31116,Jill Stein,1.1,0.0
+87893,TIPP,1.8,-0.4,Online Opt-In Panel,3.0,Michigan,2024-08-20,2024-08-22,741.0,8/25/24 13:18,GRE,31116,Jill Stein,0.9,0.0
+87813,Focaldata,,,,3.0,Michigan,2024-08-06,2024-08-16,702.0,8/19/24 14:41,GRE,31116,Jill Stein,1.0,0.0
+87813,Focaldata,,,,3.0,Michigan,2024-08-06,2024-08-16,,8/19/24 14:41,GRE,31116,Jill Stein,1.0,0.0
+87813,Focaldata,,,,3.0,Michigan,2024-08-06,2024-08-16,702.0,8/19/24 14:42,GRE,31116,Jill Stein,0.5,0.0
+87824,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-08-12,2024-08-15,530.0,8/19/24 14:02,GRE,31116,Jill Stein,1.0,0.0
+87729,Bullfinch,,,Online Opt-In Panel,4.0,Michigan,2024-08-08,2024-08-11,500.0,8/12/24 14:12,GRE,31116,Jill Stein,1.0,0.0
+87785,Fabrizio/Impact,1.7,-0.3,Live Phone/Text-to-Web,2.0,Michigan,2024-08-07,2024-08-11,600.0,8/15/24 13:01,GRE,31116,Jill Stein,1.0,0.0
+87719,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-08-05,2024-08-08,619.0,8/10/24 15:16,GRE,31116,Jill Stein,1.0,0.0
+87719,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-08-05,2024-08-08,619.0,8/10/24 15:16,GRE,31116,Jill Stein,1.0,0.0
+87849,Navigator,1.3,0.3,Text-to-Web,4.5,Michigan,2024-07-31,2024-08-08,600.0,8/20/24 15:24,GRE,31116,Jill Stein,0.0,0.0
+87685,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-07-31,2024-08-03,771.0,8/6/24 12:15,GRE,31116,Jill Stein,1.0,0.0
+87623,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-07-24,2024-07-28,706.0,7/30/24 20:12,GRE,31116,Jill Stein,1.0,0.0
+87569,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-07-22,2024-07-24,512.0,7/26/24 09:48,GRE,31116,Jill Stein,0.0,0.0
+87572,Glengariff Group Inc.,1.5,-0.2,Live Phone,1.0,Michigan,2024-07-22,2024-07-24,600.0,7/26/24 09:48,GRE,31116,Jill Stein,0.5,0.0
+87572,Glengariff Group Inc.,1.5,-0.2,Live Phone,1.0,Michigan,2024-07-22,2024-07-24,600.0,7/31/24 14:44,GRE,31116,Jill Stein,1.3,0.0
+87572,Glengariff Group Inc.,1.5,-0.2,Live Phone,1.0,Michigan,2024-07-22,2024-07-24,600.0,7/31/24 14:44,GRE,31116,Jill Stein,0.3,0.0
+87585,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,9.0,Michigan,2024-07-22,2024-07-24,1012.0,7/26/24 20:33,GRE,31116,Jill Stein,1.0,0.0
+87544,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-07-22,2024-07-23,800.0,7/25/24 09:06,GRE,31116,Jill Stein,0.6,0.0
+87486,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-17,2024-07-18,650.0,7/18/24 20:18,GRE,31116,Jill Stein,3.0,0.0
+87486,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-17,2024-07-18,650.0,7/18/24 20:18,GRE,31116,Jill Stein,2.0,0.0
+87486,PPP,1.4,0.0,IVR/Text,4.0,Michigan,2024-07-17,2024-07-18,650.0,7/18/24 20:18,GRE,31116,Jill Stein,1.0,0.0
+87506,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-07-16,2024-07-18,437.0,7/21/24 11:06,GRE,31116,Jill Stein,1.0,0.0
+87489,Trafalgar Group,0.7,0.6,IVR/Live Phone/Text/Online Opt-In Panel/Email,4.0,Michigan,2024-07-15,2024-07-17,1091.0,7/19/24 09:49,GRE,31116,Jill Stein,1.4,0.0
+87500,EPIC/MRA,1.9,-0.7,,3.0,Michigan,2024-07-13,2024-07-17,600.0,7/21/24 11:06,GRE,31116,Jill Stein,2.0,0.0
+87455,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-07-15,2024-07-16,1000.0,7/18/24 09:42,GRE,31116,Jill Stein,0.7,0.0
+87420,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-07-08,2024-07-10,465.0,7/15/24 20:31,GRE,31116,Jill Stein,0.0,0.0
+87603,Echelon Insights,2.7,-0.8,Online Opt-In Panel,9.0,Michigan,2024-07-01,2024-07-08,607.0,7/29/24 20:13,GRE,31116,Jill Stein,2.0,0.0
+87318,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-07-01,2024-07-05,694.0,7/6/24 13:34,GRE,31116,Jill Stein,1.0,0.0
+87327,Remington,2.6,-0.6,,7.0,Michigan,2024-06-29,2024-07-01,584.0,7/8/24 11:32,GRE,31116,Jill Stein,1.0,0.0
+87277,EPIC/MRA,1.9,-0.7,Live Phone,3.0,Michigan,2024-06-21,2024-06-26,600.0,6/29/24 18:46,GRE,31116,Jill Stein,2.0,0.0
+87209,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-06-13,2024-06-18,1000.0,6/20/24 13:13,GRE,31116,Jill Stein,0.8,0.0
+87179,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-06-08,2024-06-11,594.0,6/17/24 10:36,GRE,31116,Jill Stein,1.0,0.0
+87110,Mitchell,2.4,-0.2,Text-to-Web,6.0,Michigan,2024-06-03,2024-06-03,710.0,6/5/24 14:04,GRE,31116,Jill Stein,0.5,0.0
+87048,Mitchell,2.4,-0.2,Text-to-Web,6.0,Michigan,2024-05-20,2024-05-21,697.0,5/28/24 20:41,GRE,31116,Jill Stein,1.0,0.0
+87426,KAConsulting LLC,1.5,-0.1,Live Phone/Online Opt-In Panel,3.5,Michigan,2024-05-15,2024-05-19,600.0,7/16/24 09:34,GRE,31116,Jill Stein,1.0,0.0
+87006,Prime Group,,,Online Opt-In Panel,1.0,Michigan,2024-05-09,2024-05-16,482.0,5/22/24 15:07,GRE,31116,Jill Stein,2.0,0.0
+86990,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-05-08,2024-05-12,704.0,5/22/24 11:20,GRE,31116,Jill Stein,2.0,0.0
+86899,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-04-28,2024-05-09,616.0,5/13/24 10:12,GRE,31116,Jill Stein,1.0,0.0
+86899,Siena/NYT,3.0,-1.5,Live Phone,9.0,Michigan,2024-04-28,2024-05-09,616.0,5/13/24 10:13,GRE,31116,Jill Stein,1.0,0.0
+86906,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-05-02,2024-05-04,522.0,5/13/24 10:48,GRE,31116,Jill Stein,1.0,0.0
+86750,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-04-25,2024-04-29,1000.0,4/30/24 09:15,GRE,31116,Jill Stein,0.8,0.0
+86740,YouGov,3.0,-1.1,Online Matched Sample,9.0,Michigan,2024-04-19,2024-04-25,1262.0,4/28/24 11:53,GRE,31116,Jill Stein,3.0,0.0
+86689,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,6.0,Michigan,2024-04-11,2024-04-16,1126.0,4/18/24 20:54,GRE,31116,Jill Stein,2.0,0.0
+86720,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-04-08,2024-04-15,708.0,4/24/24 11:10,GRE,31116,Jill Stein,1.0,0.0
+86675,MRG (Marketing Resource Group),1.8,0.1,Live Phone,6.0,Michigan,2024-04-08,2024-04-11,600.0,4/17/24 12:25,GRE,31116,Jill Stein,2.0,0.0
+86920,Big Data Poll,1.1,0.2,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-26,2024-03-30,1218.0,5/14/24 09:15,GRE,31116,Jill Stein,2.6,0.0
+86920,Big Data Poll,1.1,0.2,Live Phone/Online Opt-In Panel/Text-to-Web,7.0,Michigan,2024-03-26,2024-03-30,1145.0,5/14/24 09:15,GRE,31116,Jill Stein,2.1,0.0
+86584,Fabrizio/GBAO,,,Live Phone/Text-to-Web,6.0,Michigan,2024-03-17,2024-03-24,600.0,4/2/24 22:05,GRE,31116,Jill Stein,2.0,0.0
+86584,Fabrizio/GBAO,,,Live Phone/Text-to-Web,6.0,Michigan,2024-03-17,2024-03-24,600.0,4/2/24 22:05,GRE,31116,Jill Stein,3.0,0.0
+86502,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Email,7.0,Michigan,2024-03-14,2024-03-18,1000.0,3/21/24 09:22,GRE,31116,Jill Stein,1.0,0.0
+86531,Redfield & Wilton Strategies,1.8,0.4,Online Opt-In Panel,9.0,Michigan,2024-03-14,2024-03-17,616.0,3/25/24 12:43,GRE,31116,Jill Stein,0.0,0.0
+86511,Mitchell,2.4,-0.2,Text-to-Web,6.0,Michigan,2024-03-15,2024-03-16,627.0,3/24/24 13:06,GRE,31116,Jill Stein,1.0,0.0
+86472,Quinnipiac,2.8,-0.5,Live Phone,9.0,Michigan,2024-03-08,2024-03-12,1487.0,3/14/24 14:41,GRE,31116,Jill Stein,4.0,0.0
+86547,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-03-08,2024-03-12,698.0,3/26/24 11:26,GRE,31116,Jill Stein,2.0,0.0
+86181,Emerson,2.9,-1.1,IVR/Online Opt-In Panel/Text-to-Web/Email,7.0,Michigan,2024-02-20,2024-02-24,1000.0,2/26/24 07:25,GRE,31116,Jill Stein,1.1,0.0
+86232,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-02-12,2024-02-18,702.0,2/29/24 09:44,GRE,31116,Jill Stein,1.0,0.0
+85960,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,6.0,Michigan,2024-02-08,2024-02-12,1106.0,2/14/24 21:21,GRE,31116,Jill Stein,3.0,0.0
+85960,Beacon/Shaw,2.8,-1.1,Live Phone/Text-to-Web,6.0,Michigan,2024-02-08,2024-02-12,1106.0,2/14/24 21:21,GRE,31116,Jill Stein,3.0,0.0
+85767,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2024-01-16,2024-01-21,703.0,1/31/24 10:44,GRE,31116,Jill Stein,1.0,0.0
+85576,Glengariff Group Inc.,1.5,-0.2,,1.0,Michigan,2024-01-02,2024-01-06,600.0,1/9/24 17:11,GRE,31116,Jill Stein,6.0,0.0
+85340,Morning Consult,1.9,-0.3,Online Opt-In Panel,3.0,Michigan,2023-11-27,2023-12-06,703.0,12/14/23 09:46,GRE,31116,Jill Stein,1.0,0.0
+86926,Big Data Poll,1.1,0.2,Online Opt-In Panel/Text-to-Web/Text,7.0,Michigan,2023-11-16,2023-11-19,1273.0,5/14/24 09:17,GRE,31116,Jill Stein,1.2,0.0
+86926,Big Data Poll,1.1,0.2,Online Opt-In Panel/Text-to-Web/Text,7.0,Michigan,2023-11-16,2023-11-19,1200.0,5/14/24 09:17,GRE,31116,Jill Stein,1.2,0.0

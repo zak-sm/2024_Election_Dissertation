@@ -1,0 +1,38 @@
+\documentclass{article}
+\usepackage{booktabs,ragged2e}
+\usepackage{caption} 
+\usepackage{adjustbox}% Put this in your preamble if it's not already there
+\begin{document}
+
+
+\begin{table}[ht]
+
+\centering
+
+\caption{Voter Issues by Year and Party Affiliation}
+\label{tab:voter_issues}
+\begin{adjustbox}{center}
+\begin{tabular}{lccc ccc ccc}
+\toprule
+\textbf{Issue} & \multicolumn{3}{c}{\textbf{2016}} & \multicolumn{3}{c}{\textbf{2020}} & \multicolumn{3}{c}{\textbf{2024}} \\
+ & Avg & Dem (\%) & Rep (\%) & Avg & Dem (\%) & Rep (\%) & Avg & Dem (\%) & Rep (\%) \\
+\midrule
+Covid Outbreak   & --   & --   & --   & 62   & 82   & 39   & --   & --   & -- \\
+Economy          & 84   & 80   & 90   & 79   & 72   & 88   & 81   & 68   & 93 \\
+Foreign Policy   & 75   & 73   & 79   & 57   & 57   & 57   & 62   & 54   & 70 \\
+Gun Policy       & 72   & 74   & 71   & 55   & 50   & 60   & 56   & 59   & 53 \\
+Healthcare       & 74   & 77   & 71   & 68   & 84   & 48   & 65   & 76   & 55 \\
+Immigration      & 70   & 65   & 79   & 52   & 46   & 61   & 61   & 39   & 82 \\
+SCOTUS           & --   & --   & --   & 64   & 66   & 61   & 63   & 73   & 54 \\
+Terrorism        & 80   & 74   & 89   & --   & --   & --   & --   & --   & -- \\
+Violent Crime    & --   & --   & --   & 59   & 46   & 74   & 61   & 46   & 76 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+
+\vspace{2pt}
+\RaggedRight{Data obtained from Pew Research, 2016; 2020; 2024}
+
+\end{table}
+
+\end{document}

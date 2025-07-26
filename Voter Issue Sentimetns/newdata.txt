@@ -1,0 +1,58 @@
+election_data = {
+    2016: {
+        "turnout": 136_787_187,
+        "voting_age_population": 245_502_000,
+        "voter_eligible_population": 230_931_921,
+        "voter_registration": 157_596_000,
+        "turnout_percent_of_total_population": 55.7,
+        "turnout_percent_of_eligible": 59.2
+    },
+    2020: {
+        "turnout": 158_481_688,
+        "voting_age_population": 252_274_000,
+        "voter_eligible_population": 242_690_810,
+        "voter_registration": 168_308_000,
+        "turnout_percent_of_total_population": 62.8,
+        "turnout_percent_of_eligible": 65.3
+    },
+    2024: {
+        "turnout": 155_201_157,
+        "voting_age_population": 266_978_268,
+        "voter_eligible_population": 244_666_890,
+        "voter_registration": 168_308_000,  # Not provided
+        "turnout_percent_of_total_population": 58.2,
+        "turnout_percent_of_eligible": 63.5
+    }
+}
+voter_issues_by_year = {
+    2016: {
+        "Economy": {"Average": 84, "Democrat": 80, "Republican": 90},
+        "Terrorism": {"Average": 80, "Democrat": 74, "Republican": 89},
+        "Foreign Policy": {"Average": 75, "Democrat": 73, "Republican": 79},
+        "Healthcare": {"Average": 74, "Democrat": 77, "Republican": 71},
+        "Gun Policy": {"Average": 72, "Democrat": 74, "Republican": 71},
+        "Immigration": {"Average": 70, "Democrat": 65, "Republican": 79},
+        "Source": "Pew Research, June 15–26, 2016"
+    },
+    2020: {
+        "Economy": {"Average": 79, "Democrat": 72, "Republican": 88},
+        "Healthcare": {"Average": 68, "Democrat": 84, "Republican": 48},
+        "SCOTUS": {"Average": 64, "Democrat": 66, "Republican": 61},
+        "Covid Outbreak": {"Average": 62, "Democrat": 82, "Republican": 39},
+        "Violent Crime": {"Average": 59, "Democrat": 46, "Republican": 74},
+        "Foreign Policy": {"Average": 57, "Democrat": 57, "Republican": 57},
+        "Gun Policy": {"Average": 55, "Democrat": 50, "Republican": 60},
+        "Immigration": {"Average": 52, "Democrat": 46, "Republican": 61},
+        "Source": "Pew Research, July 27–Aug 2, 2020"
+    },
+    2024: {
+        "Economy": {"Average": 81, "Democrat": 68, "Republican": 93},
+        "Healthcare": {"Average": 65, "Democrat": 76, "Republican": 55},
+        "SCOTUS": {"Average": 63, "Democrat": 73, "Republican": 54},
+        "Foreign Policy": {"Average": 62, "Democrat": 54, "Republican": 70},
+        "Violent Crime": {"Average": 61, "Democrat": 46, "Republican": 76},
+        "Immigration": {"Average": 61, "Democrat": 39, "Republican": 82},
+        "Gun Policy": {"Average": 56, "Democrat": 59, "Republican": 53},
+        "Source": "Pew Research, 2024 (date unspecified)"
+    }
+}

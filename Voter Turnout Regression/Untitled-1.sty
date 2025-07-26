@@ -1,0 +1,72 @@
+%%%
+%\begin{figure}
+%\centering
+%\begin{tikzpicture}
+%\begin{axis}[
+    ybar=0pt,
+    bar width=12pt,
+    width=14cm,
+    height=9cm,
+    ymin=0,
+    ymax=0.025,
+    ylabel={\% Arab Population },
+    ylabel style={yshift=-1ex},
+    axis y line*=left,
+    axis x line*=bottom,
+    symbolic x coords={United States,Michigan,New York,California,New Jersey,Virginia},
+    xtick=data,
+    xticklabel style={rotate=30, anchor=east},
+    enlarge x limits=0.2,
+    legend style={at={(0.5,-0.22)}, anchor=north, legend columns=2},
+    title={Top 5 U.S. States by Arab-American Population},
+]
+
+% Percent Arab population (left axis)
+%\addplot+[fill=green!50, bar shift=-6pt] coordinates {
+    (United States, 0.00638)
+    (Michigan,0.02087)
+    (New York,0.00974)
+    (California,0.00833)
+    (New Jersey,0.01199)
+    (Virginia,0.00959)
+};
+
+%\addlegendentry{\% Arab Population}
+
+%\end{axis}
+
+% Second axis for absolute numbers
+%\begin{axis}[
+    ybar=0pt,
+    bar width=12pt,
+    width=14cm,
+    height=9cm,
+    ymin=0,
+    ymax=350000,
+    ylabel={Arab-American Population (Hund. Thou.)},
+    ylabel style={yshift=-.5cm},
+    axis y line*=right,
+    axis x line=none,
+    symbolic x coords={United States,Michigan,New York,California,New Jersey,Virginia},
+    legend style= {at={(0.5,-0.30)}, anchor=north, legend columns=2},
+    xtick=data,
+    enlarge x limits=0.2,
+]
+
+%\addplot+[fill=purple!70, bar shift=6pt] coordinates {
+    (United States, 2191006)
+    (Michigan,212828)
+    (New York,194747)
+    (California,330264)
+    (New Jersey,115428)
+    (Virginia,85198)
+};
+
+%\addlegendentry{Arab-American Population (Hundred Thousand's)}
+
+%\end{axis}
+%\end{tikzpicture}
+%\caption{Arab-American population by state: Top 5 by total population with percentage of state population.}
+%\end{figure}
+
+-----
